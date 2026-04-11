@@ -1,0 +1,26 @@
+title: My Site
+description: >-
+  My GitHub Pages site.
+baseurl: ""
+url: "https://example.com" # Replace with your primary domain
+
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
