@@ -4,10 +4,7 @@ description: >-
 baseurl: ""
 url: "https://catan-guide.kelvsyc.com"
 
-theme: minima
-
-minima:
-  skin: classic
+theme: jekyll-theme-modernist
 
 plugins:
   - jekyll-feed
