@@ -1,0 +1,138 @@
+---
+layout: default
+title: Das Buch zum Spielen
+---
+***Die Siedler von Catan: Das Buch zum Spielen*** was a book released in 2000 as an appreciation to the fans for five years of the _Catan_ base game. Contained within are a collection of scenarios and variants contributed by fans, and the parts needed to play each of them. Most of these scenarios and variants require [_Seafarers_]({% link products/seafarers.md %}), and a few require [_Cities & Knights_]({% link products/cities-knights.md %}) as well, though some scenarios and variants are not compatible with [_Cities & Knights_]({% link products/cities-knights.md %}).
+
+The book also contains a number of basic strategies for _Catan_ and the _Catan Card Game_ (though the latter has largely been obsoleted by subsequent revisions, before the entire game has been obsoleted by _The Rivals for Catan_), as well as a small number of notes regarding the making of the game.
+
+Although the product was never released in English, the German product was available for purchase with an English translation for the gameplay portions of the book.
+
+## Scenarios and Variants
+- "The Atoll"
+- "The Bermuda Triangle"
+- "Catan-Express"
+- "El Dorado"
+- "The Explorers"
+- "The Fleets"
+- "The Colonies"
+- "The Great Race"
+- "The Treasure Hunters"
+- "The Specialists"
+- "The Storm Tides"
+- "Transport-Settlers"
+- "The World According to Catan"
+- "Westwards"
+- "The Desert Riders"
+
+- "Events on Catan"
+- "Factories on Catan"
+- "Poverty is No Shame"
+- "Revenge is Sweet"
+- "The Fences"
+- "Castles on Catan"
+- "Volcanoes on Catan"
+- "Volcania"
+- "Dragonslayers"
+- "The Magic 7"
+- "The Enchanted Island"
+- "Catan is Round"
+- "Balloon Riders"
+- "Atlantis"
+- "The Specialist Rules"
+- "Blockade"
+- "Ship Sinking"
+- "Capturing Ships"
+
+## Parts List
+- Hexes
+  - 3 Jungle
+  - 3 Volcano
+  - 1 Citadel
+  - 1 Spinner with spinner arrow
+- Number tokens
+  - 2 - 2
+  - 1 - 3
+  - 1 - 4
+  - 1 - 5
+  - 2 - 6
+  - 2 - 8
+  - 1 - 9
+  - 1 - 10
+  - 1 - 11
+  - 2 - 12
+  - 1 - Magic 7
+- Number tokens for "The Bermuda Triangle"
+  - 1 - 2
+  - 2 - 3
+  - 2 - 4
+  - 2 - 10
+  - 2 - 11
+  - 2 - 12
+- Player Pieces
+  - "Catan-Express"
+    - 1 Train marker per player 
+    - 6 Water Tower markers per player
+  - "The Storm Tides"
+    - 3 Dike markers per player
+  - "Transport-Settlers" - as this is a four-player scenario, no pieces for the extension player colors (green and brown) are provided
+    - 1 Ship 1 marker per player
+    - 1 Ship 2 marker per player
+  - "Westwards" - as this is a five-player scenario, no pieces for the sixth (brown) player is provided
+    - 1 Fort per player
+    - 1 Pioneer per player
+  - "Factories on Catan"
+    - 1 Factory marker per player
+    - 1 figure stand per player
+  - "Castles on Catan"
+    - 1 Castle marker per player
+    - 1 figure stand per player
+  - "Balloon Riders"
+    - 1 Balloon marker per player
+    - 1 figure stand per player
+- Miscellaneous Player Equipment
+  - 1 Island Supply Board for "Transport-Settlers" / Building Cost card for "Westwards" per player
+  - 1 Ship Supply Board for "Transport-Settlers" / Building Cost card for "The Colonies" per player
+  - 1 Building Cost card for "Westwards"
+- Miscellaneous Scenario Equipment
+  - "Catan-Express"
+    - 1 Fastest Engineer scoring bonus card
+  - "The Colonies"
+    - Colony tokens
+      - 20 gold
+      - 20 ore
+      - 20 gemstone
+      - 26 jungle
+  - "The Treasure Hunters"
+    - 1 large victory point marker
+    - Treasure Tokens
+      - 6 victory point
+      - 8 robber
+      - 8 gold
+      - 8 development card
+  - "The Specialists" / "The Specialist Rules"
+    - 1 set of 6 Specialist scoring bonus cards
+  - "Transport-Settlers"
+    - Pirate ship marker
+      - 1 Pirate ship marker
+      - 1 black figure stand
+    - 1 set of 3 nameplates
+  - "The World According to Catan"
+    - 1 Storm marker
+  - "Westwards"
+    - 1 set of 7 river strips
+    - Native American figure
+      - 1 Native American figure
+      - 1 black figure stand
+  - "The Desert Riders"
+    - 28 Desert Rider markers
+    - 12 Discovery tokens
+- 16 victory point markers
+- 30 red chips
+- 100 Storm flood markers
+- 2 Large flood markers
+- Dragon figure
+  - 1 Dragon figure
+  - 1 black figure stand
+- 3 spare black figure stands
+- 1 sorting sticker sheet
