@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seafarers
 title: Legend of the Sea Robbers
 ---
 ***Catan: Seafarers Scenario - Legend of the Sea Robbers*** is an expansion to [_Seafarers_]({% link products/seafarers.md %}), released to celebrate the 20th anniversary of [_Seafarers_]({% link products/seafarers.md %}). It is the second anniversary-based expansion to [_Seafarers_]({% link products/seafarers.md %}) after [_Die Kolonien_]({% link products/die-kolonien.md %}), though this is the first to receive an English localization. As an anniversary expansion, it shares its color coding of blue with that of its parent expansion.

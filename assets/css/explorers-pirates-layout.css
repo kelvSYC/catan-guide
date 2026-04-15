@@ -1,0 +1,19 @@
+/* Explorers & Pirates layout background overrides */
+body {
+  background-color: #32465f;
+}
+
+#content-wrapper {
+  background-color: #32465f;
+}
+
+#main-content {
+  background-color: #eaeff5;
+  border-left: 4px solid #1e2f42;
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #1e2f42;
+  border-top: 1px solid #152233;
+}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cities-knights
 title: Legend of the Conquerors
 ---
 ***Catan Cities & Knights Scenario: Legend of the Conquerors*** is an expansion to [_Cities & Knights_]({% link products/cities-knights.md %}), released in 2018 to celebrate the 20th anniversary of [_Cities & Knights_]({% link products/cities-knights.md %}). As an anniversary expansion, it shares its color coding with its parent - green for English sets and orange for international sets. ([_Cities & Knights_]({% link products/cities-knights.md %}) would only adopt the international sets' orange color starting with the English 6th edition).

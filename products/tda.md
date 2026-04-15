@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tda
 title: Treasures, Dragons & Adventurers
 redirect_from:
 - /products/treasures-dragons-adventurers

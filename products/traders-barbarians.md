@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: traders-barbarians
 title: Traders & Barbarians
 ---
 ***Catan: Traders & Barbarians***, released in 2007, is the third major expansion to _Catan_, and the first since the switch to plastic pieces in the 2nd international edition, and the first since the release of the English 4th edition. Within the color-coding system of expansions, international sets briefly used a yellow color, before standardising on the purple used in the English editions, starting with the 3rd international edition.

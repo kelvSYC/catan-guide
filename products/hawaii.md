@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seafarers
 title: Hawaii
 ---
 ***Catan: Seafarers Scenario: Hawaii*** was originally released as the 2017 entry in the _Catan Geographies_ series of scenarios. Uniquely among the scenarios of that line, it requires [_Seafarers_]({% link products/seafarers.md %}) to play.

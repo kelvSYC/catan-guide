@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seafarers
 title: Seafarers
 ---
 ***Catan: Seafarers***, originally titled _The Seafarers of Catan_, was the first full expansion to the base game. Released in 1997, its color in the color-coding system is light blue, though it was briefly purple for the first international edition.

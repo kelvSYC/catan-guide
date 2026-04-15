@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: explorers-pirates
 title: Explorers & Pirates
 ---
 ***Catan: Explorers & Pirates*** is the fourth major expansion to _Catan_, released in 2014, late in the English 4th edition and 2nd international edition cycles. This expansion is an alternate take on the seafaring and exploration themes of [_Seafarers_]({% link products/seafarers.md %}), primarily differing in the fact that ships being individual seagoing vessels rather than an abstract representation of a shipping line over water. Its similarity to [_Seafarers_]({% link products/seafarers.md %}) is reflected in the color coding for _Catan_ products, where dark blue is used to contrast that of the light blue used in [_Seafarers_]({% link products/seafarers.md %}).

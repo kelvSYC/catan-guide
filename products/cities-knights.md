@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cities-knights
 title: Cities & Knights
 ---
 ***Catan: Cities & Knights***, originally titled _The Cities & Knights of Catan_, is the second major expansion to _Catan_. Originally released in 1998, after the release of the English 3rd edition, _Cities & Knights_ effectively provided a single scenario with greater complexity and advanced mechanics. Within the color coding system of expansions, English sets originally used green, but switched over to the international sets' orange as of the English 6th edition.
