@@ -1,0 +1,34 @@
+seafarers:
+  background: "#4a93b7"
+  content: "#eaf4f9"
+  accent: "#2e6d8e"
+  footer: "#3a7a9a"
+  footer_border: "#2e6d8e"
+
+cities-knights:
+  background: "#b57e4a"
+  content: "#faf3ea"
+  accent: "#8a5f35"
+  footer: "#8a5f35"
+  footer_border: "#6e4a28"
+
+traders-barbarians:
+  background: "#83496c"
+  content: "#f7eef4"
+  accent: "#5e3350"
+  footer: "#5e3350"
+  footer_border: "#4a2840"
+
+explorers-pirates:
+  background: "#32465f"
+  content: "#eaeff5"
+  accent: "#1e2f42"
+  footer: "#1e2f42"
+  footer_border: "#152233"
+
+tda:
+  background: "#975f31"
+  content: "#faf1e8"
+  accent: "#6e4422"
+  footer: "#6e4422"
+  footer_border: "#573418"
