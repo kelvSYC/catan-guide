@@ -1,0 +1,41 @@
+{% assign group = include.group %}
+{% assign depth = include.depth | plus: 0 %}
+{% assign next_depth = depth | plus: 1 %}
+
+{% if depth == 0 %}
+<div class="navbox-row">
+  {% if group.label %}<span class="navbox-group-label">{{ group.label }}</span>{% endif %}
+  <div class="navbox-group-items">
+    {% for subgroup in group.groups %}
+      {% include navbox-group.html group=subgroup depth=next_depth %}
+    {% endfor %}
+    {% if group.items %}
+    <ul class="navbox-list">
+      {% for item in group.items %}
+      <li>
+        {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
+        {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</div>
+{% else %}
+<div class="navbox-subgroup">
+  {% if group.label %}<div class="navbox-subgroup-label">{{ group.label }}</div>{% endif %}
+  {% for subgroup in group.groups %}
+    {% include navbox-group.html group=subgroup depth=next_depth %}
+  {% endfor %}
+  {% if group.items %}
+  <ul class="navbox-list">
+    {% for item in group.items %}
+    <li>
+      {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
+      {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endif %}

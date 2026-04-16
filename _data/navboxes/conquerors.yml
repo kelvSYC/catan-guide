@@ -1,0 +1,32 @@
+title: "*Legend of the Conquerors*"
+title_link: products/conquerors.html
+colors: cities-knights
+groups:
+  - label: Scenarios
+    items:
+      - title: Resist!
+      - title: Stop the Conquerors!
+      - title: Free All of Catan!
+  - label: Equipment
+    items:
+      - title: Amber Token
+        link: equipment/amber-token.html
+      - title: Cannon / Foundry
+        link: equipment/cannon.html
+      - title: Cavalry / Horse Farm
+        link: equipment/cavalry.html
+      - title: Conqueror
+      - title: Direction Tile and Direction Die
+      - title: Fort
+      - title: Landing Marker
+      - title: Progress Card (Trade, Politics, Science, Battle)
+      - title: Wine Token
+        link: equipment/wine-token.html
+  - label: Game Concepts
+    items:
+      - title: Cannoneer
+      - title: Cavalry
+      - title: Event
+      - title: Knight
+      - title: Knight Upgrade
+      - title: Legend Point

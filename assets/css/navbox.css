@@ -72,3 +72,15 @@ details[open] .navbox summary::before {
 .navbox-list li+li::before {
   content: " \2022 ";
 }
+
+.navbox-subgroup+.navbox-subgroup {
+  border-top: 1px solid var(--navbox-accent);
+  margin-top: 0.3em;
+  padding-top: 0.3em;
+}
+
+.navbox-subgroup-label {
+  font-weight: bold;
+  font-size: 0.9em;
+  margin-bottom: 0.2em;
+}

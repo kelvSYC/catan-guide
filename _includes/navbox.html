@@ -1,0 +1,18 @@
+{% assign navbox = include.data %}
+{% assign colors = site.data.colors[navbox.colors] %}
+{% assign navbox_title = navbox.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip %}
+<nav aria-label="{{ navbox_title | strip_html }}"
+  style="--navbox-accent: {{ colors.accent }}; --navbox-content: {{ colors.content }}; --navbox-background: {{ colors.background }};">
+  <details class="navbox" open>
+    <summary>
+      {%- if navbox.title_link -%}
+      <a href="{{ navbox.title_link | relative_url }}">{{ navbox_title }}</a>
+      {%- else -%}
+      {{ navbox_title }}
+      {%- endif -%}
+    </summary>
+    {% for group in navbox.groups %}
+      {% include navbox-group.html group=group depth=0 %}
+    {% endfor %}
+  </details>
+</nav>

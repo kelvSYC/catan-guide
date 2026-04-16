@@ -40,12 +40,12 @@ As with other sets, do note that English sets always display ocean on the revers
   - 1 - 11
   - 2 - 12
 - Player Pieces
-  - 1 Cannon per player
-  - 1 Cavalry per player
+  - 1 [Cannon]({% link equipment/cannon.md %}) per player
+  - 1 [Cavalry]({% link equipment/cavalry.md %}) per player
   - 2 Markers per player
 - Miscellaneous Player Assets
-  - 1 Foundry tile per player
-  - 1 Horse Farm tile per player
+  - 1 [Foundry]({% link equipment/foundry.md %}) tile per player
+  - 1 [Horse Farm]({% link equipment/horse-farm.md %}) tile per player
   - 2 Overview cards for "Resist!" per player
   - 2 Overview cards for "Stop the Conquerors!" per player
   - 2 Overview cards for "Free All of Catan!" per player
