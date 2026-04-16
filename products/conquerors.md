@@ -25,9 +25,9 @@ As with other sets, do note that English sets always display ocean on the revers
   - 2 Pasture
   - 1 Pasture / Swamp
   - 9 Swamp
-- 20 Conquerors
-- 16 Forts
-- 1 sticker sheet, to be affixed to Conquerors and Forts
+- 20 [Conquerors]({% link equipment/conqueror.md %})
+- 16 [Forts]({% link equipment/fort.md %})
+- 1 sticker sheet, to be affixed to [Conquerors]({% link equipment/conqueror.md %}) and [Forts]({% link equipment/fort.md %})
 - Number tokens
   - 2 - 2
   - 1 - 3

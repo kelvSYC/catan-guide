@@ -2,7 +2,7 @@
 layout: cities-knights
 title: Amber Token
 ---
-**Amber Tokens** are one of the two currencies introduces in [_Legend of the Conquerors_]({% link products/conquerors.md %}).
+**Amber Tokens** are one of the two currencies introduced in [_Legend of the Conquerors_]({% link products/conquerors.md %}).
 
 Lore-wise, amber is said to be plentiful on Catan, but a very valuable commodity: it is said that even people of average means on Catan can afford amber jewelry, yet amber is in high demand in the old world.
 

@@ -16,8 +16,10 @@ groups:
       - title: Cavalry / Horse Farm
         link: equipment/cavalry.html
       - title: Conqueror
+        link: equipment/conqueror.html
       - title: Direction Tile and Direction Die
       - title: Fort
+        link: equipment/fort.html
       - title: Landing Marker
       - title: Progress Card (Trade, Politics, Science, Battle)
       - title: Wine Token
@@ -26,6 +28,7 @@ groups:
     items:
       - title: Cannoneer
       - title: Cavalry
+      - title: Encirclement
       - title: Event
       - title: Knight
       - title: Knight Upgrade
