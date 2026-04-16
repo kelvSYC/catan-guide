@@ -63,8 +63,8 @@ As with other sets, do note that English sets always display ocean on the revers
   - 1 Lumber Harbor / Trade Station
   - 1 Ore Harbor / Trade Station
   - 1 Wool Harbor / Trade Station
-- 32 Amber tokens
-- 32 Wine tokens
+- 32 [Amber tokens]({% link equipment/amber-token.md %})
+- 32 [Wine tokens]({% link equipment/wine-token.md %})
 - 1 Direction Tile
 - 1 Direction Die
 - 4 Landing Markers

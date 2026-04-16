@@ -1,0 +1,74 @@
+.navbox {
+  border: 1px solid var(--navbox-accent);
+  background-color: var(--navbox-content);
+  width: 100%;
+  margin-top: 2em;
+  font-size: 0.9em;
+}
+
+.navbox summary {
+  background-color: var(--navbox-accent);
+  color: #fff;
+  padding: 0.4em 0.6em;
+  text-align: center;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+}
+
+.navbox summary::-webkit-details-marker {
+  display: none;
+}
+
+.navbox summary::before {
+  content: "\25B6";
+  position: absolute;
+  left: 0.6em;
+  top: 50%;
+  transform: translateY(-50%);
+  font-style: normal;
+}
+
+details[open] .navbox summary::before {
+  content: "\25BC";
+}
+
+.navbox summary a {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbox-row {
+  display: flex;
+  border-top: 1px solid var(--navbox-accent);
+}
+
+.navbox-group-label {
+  background-color: var(--navbox-accent);
+  color: #fff;
+  padding: 0.4em 0.6em;
+  text-align: center;
+  width: 8em;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbox-group-items {
+  padding: 0.4em 0.6em;
+}
+
+.navbox-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navbox-list li {
+  display: inline;
+}
+
+.navbox-list li+li::before {
+  content: " \2022 ";
+}

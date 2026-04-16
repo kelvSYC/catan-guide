@@ -1,0 +1,16 @@
+{% assign colors = site.data.colors["cities-knights"] %}
+<nav aria-label="Legend of the Conquerors"
+  style="--navbox-accent: {{ colors.accent }}; --navbox-content: {{ colors.content }}; --navbox-background: {{ colors.background }};">
+  <details class="navbox" open>
+    <summary><a href="{% link products/conquerors.md %}"><em>Legend of the Conquerors</em></a></summary>
+    <div class="navbox-row">
+      <span class="navbox-group-label">Equipment</span>
+      <div class="navbox-group-items">
+        <ul class="navbox-list">
+          <li><a href="{% link equipment/amber-token.md %}">Amber Token</a></li>
+          <li><a href="{% link equipment/wine-token.md %}">Wine Token</a></li>
+        </ul>
+      </div>
+    </div>
+  </details>
+</nav>
