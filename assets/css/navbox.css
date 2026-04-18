@@ -70,7 +70,8 @@ details[open] .navbox summary::before {
 }
 
 .navbox-list li+li::before {
-  content: " \2022 ";
+  content: "\2022";
+  margin: 0 0.3em;
 }
 
 .navbox-subgroup+.navbox-subgroup {
@@ -97,5 +98,6 @@ details[open] .navbox summary::before {
 }
 
 .navbox-subitem-list li+li::before {
-  content: " \2022 ";
+  content: "\2022";
+  margin: 0 0.3em;
 }

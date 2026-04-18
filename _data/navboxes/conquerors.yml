@@ -5,8 +5,11 @@ groups:
   - label: Scenarios
     items:
       - title: Resist!
+        link: scenarios/resist.html
       - title: Stop the Conquerors!
+        link: scenarios/stop-the-conquerors.html
       - title: Free All of Catan!
+        link: scenarios/free-all-of-catan.html
   - label: Equipment
     items:
       - title: Amber Token

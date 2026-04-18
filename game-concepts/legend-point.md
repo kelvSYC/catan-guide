@@ -26,9 +26,9 @@ Legend Points are awarded based on the victory point standings at the end of eac
     <tr><th>Scenario</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th></tr>
   </thead>
   <tbody>
-    <tr><td>Resist!</td><td>6</td><td>3</td><td>2</td><td>1</td></tr>
-    <tr><td>Stop the Conquerors!</td><td>7</td><td>5</td><td>3</td><td>1</td></tr>
-    <tr><td>Free All of Catan!</td><td>9</td><td>7</td><td>5</td><td>2</td></tr>
+    <tr><td><a href="{% link scenarios/resist.md %}">Resist!</a></td><td>6</td><td>3</td><td>2</td><td>1</td></tr>
+    <tr><td><a href="{% link scenarios/stop-the-conquerors.md %}">Stop the Conquerors!</a></td><td>7</td><td>5</td><td>3</td><td>1</td></tr>
+    <tr><td><a href="{% link scenarios/free-all-of-catan.md %}">Free All of Catan!</a></td><td>9</td><td>7</td><td>5</td><td>2</td></tr>
   </tbody>
 </table>
 

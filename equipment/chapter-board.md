@@ -15,9 +15,9 @@ The spaces on each of the barbarian tracks may be marked with specific events. T
   <thead>
     <tr>
       <th>Space</th>
-      <th>Resist!</th>
-      <th>Stop the Conquerors!</th>
-      <th>Free All of Catan!</th>
+      <th><a href="{% link scenarios/resist.md %}">Resist!</a></th>
+      <th><a href="{% link scenarios/stop-the-conquerors.md %}">Stop the Conquerors!</a></th>
+      <th><a href="{% link scenarios/free-all-of-catan.md %}">Free All of Catan!</a></th>
     </tr>
   </thead>
   <tbody>
@@ -203,13 +203,16 @@ Because a Chapter Board consists of two separate tracks, each of the two tracks 
 **Barbarian Track**
 - At the start of the game, the barbarian ship is placed on the first space on the track.
 - Whenever the barbarian ship is rolled on the Event Die during a production roll, the barbarian ship is advanced one space. If the barbarian ship lands on a space with an event, the event is resolved before production is resolved.
-- In all campaign scenarios, the game ends whenever the barbarian ship reaches the last space on the track (or, in the case of "Free All of Catan!", conditionally once the barbarian ship reaches the last three spaces). Any player who is able to declare victory before this happens is said to win an **early victory**.
+- In all campaign scenarios, the game ends whenever the barbarian ship reaches the last space on the track (or, in the case of [Free All of Catan!][free-all-of-catan], conditionally once the barbarian ship reaches the last three spaces). Any player who is able to declare victory before this happens is said to win an **early victory**.
 
 ## Manifest
-[_Legend of the Conquerors_][conquerors] includes two boards: one smaller board for "Resist!", and a double-sided board with the boards for the other two scenarios, one for each side.
+[_Legend of the Conquerors_][conquerors] includes two boards: one smaller board for [Resist!][resist], and a double-sided board with the boards for the other two scenarios, one for each side.
 
 {% include navbox-conquerors.html %}
 
 [cities-knights]: {% link products/cities-knights.md %}
 [conquerors]: {% link products/conquerors.md %}
+[free-all-of-catan]: {% link scenarios/free-all-of-catan.md %}
 [legend-point]: {% link game-concepts/legend-point.md %}
+[resist]: {% link scenarios/resist.md %}
+[stop-the-conquerors]: {% link scenarios/stop-the-conquerors.md %}

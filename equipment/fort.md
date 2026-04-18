@@ -2,7 +2,7 @@
 layout: cities-knights
 title: Fort
 ---
-**Forts** are a neutral piece introduced in [_Legend of the Conquerors_][conquerors]. They are equipment specific to "Free All of Catan!", used alongside [conquerors][conqueror].
+**Forts** are a neutral piece introduced in [_Legend of the Conquerors_][conquerors]. They are equipment specific to [Free All of Catan!][free-all-of-catan], used alongside [conquerors][conqueror].
 
 ## Appearance
 English sets use gray hexagonal pieces to represent forts. Each fort has one sticker affixed to its bottom side, associating a fort with a reward for clearing it. [Conquerors][conqueror] are then stacked on its blank top side to complete the fort piece.
@@ -35,4 +35,5 @@ Forts do not exist as a separate figure in and of itself; they are always associ
 [amber]: {% link equipment/amber-token.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
+[free-all-of-catan]: {% link scenarios/free-all-of-catan.md %}
 [wine]: {% link equipment/wine-token.md %}

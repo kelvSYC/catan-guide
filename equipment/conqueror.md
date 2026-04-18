@@ -10,7 +10,7 @@ English sets use gray hexagonal pieces to represent conquerors. Each piece has t
 International sets use a bespoke conqueror figure with a flag, for which stickers are affixed to show its strength rating.
 
 ## Gameplay
-Conquerors are used in one of two ways in [_Legend of the Conquerors_][conquerors]. In the first two scenarios, Conquerors are standalone units, while in "Free All of Catan!", they are stationary pieces attached to a [fort]({% link equipment/fort.md %}). Because of this, only the mechanics of Conquerors as standalone units are explored in further detail here.
+Conquerors are used in one of two ways in [_Legend of the Conquerors_][conquerors]. In the first two scenarios, Conquerors are standalone units, while in [Free All of Catan!][free-all-of-catan], they are stationary pieces attached to a [fort]({% link equipment/fort.md %}). Because of this, only the mechanics of Conquerors as standalone units are explored in further detail here.
 
 - Conquerors are placed on hexes, and only one conqueror may be on a hex at any given time.
 - **The Conquerors Land**: Conquerors are placed on the board as part of resolving the "The Conquerors Land" event on the barbarian track. Each of these events is associated with a strength rating: when the event is resolved, one conqueror with the matching strength rating is placed on every hex with a [landing marker][landing-marker].
@@ -22,7 +22,7 @@ Conquerors are used in one of two ways in [_Legend of the Conquerors_][conqueror
     - International sets require that all conqueror pieces be oriented in the direction of the yellow sword on the [direction tile][direction-tile] if they have not yet moved, and oriented in the opposite direction if they have.
   - All of the conquerors on the board are moved whenever the event is resolved. A red side first event means that conquerors in the top rows move first, while a green side first event means that conquerors in the bottom rows move first, consistent with the orientation of the swords on the direction tile.
     - Within each row, conquerors who have advanced further away move before conquerors who have yet to advance as far.
-      - Because conquerors land in increasing order of strength in both "Resist!" and "Stop the Conquerors!", it is often the case that within a row, conquerors move in increasing order of strength.
+      - Because conquerors land in increasing order of strength in both [Resist!][resist] and [Stop the Conquerors!][stop-the-conquerors], it is often the case that within a row, conquerors move in increasing order of strength.
   - When an individual conqueror moves, the [direction die][direction-tile] is rolled, and the conqueror is moved one hex in that direction.
     - If a conqueror is unable to be moved in the indicated direction, either because it would move them off of the board, onto impassible terrain (ocean hexes or hexes with landing markers), or onto a hex where a conqueror is already present, it is moved in the next sword direction clockwise. For example, a conqueror unable to move in the green direction will attempt to move in the red direction instead.
     - If a conqueror is unable to be moved at all, it ends its movement without moving.
@@ -48,4 +48,7 @@ Conquerors are used in one of two ways in [_Legend of the Conquerors_][conqueror
 [conquerors]: {% link products/conquerors.md %}
 [direction-tile]: {% link equipment/direction-tile.md %}
 [event-conquerors]: {% link game-concepts/event-conquerors.md %}
+[free-all-of-catan]: {% link scenarios/free-all-of-catan.md %}
 [landing-marker]: {% link equipment/landing-marker.md %}
+[resist]: {% link scenarios/resist.md %}
+[stop-the-conquerors]: {% link scenarios/stop-the-conquerors.md %}

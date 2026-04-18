@@ -2,12 +2,10 @@
   {% if include.group.label %}<div class="navbox-subgroup-label">{{ include.group.label }}</div>{% endif %}
   {% if include.group.items %}
   <ul class="navbox-list">
-    {% for item in include.group.items %}
-    <li>
+    {%- for item in include.group.items %}<li>
       {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
       {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
-      {%- if item.subitems -%}
-      (<ul class="navbox-subitem-list">
+      {%- if item.subitems %} (<ul class="navbox-subitem-list">
         {%- for subitem in item.subitems -%}
         <li>
           {%- assign subitem_title = subitem.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
@@ -16,8 +14,7 @@
         {%- endfor -%}
       </ul>)
       {%- endif -%}
-    </li>
-    {% endfor %}
+    </li>{%- endfor %}
   </ul>
   {% endif %}
 </div>

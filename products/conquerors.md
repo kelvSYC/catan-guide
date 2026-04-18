@@ -7,9 +7,9 @@ title: Legend of the Conquerors
 Like [_Legend of the Sea Robbers_]({% link products/sea-robbers.md %}) before it, _Legend of the Conquerors_ introduces a campaign style progression where completion of games award Legend Points, though all scenarios can be played standalone.
 
 ## Scenarios
-- "Resist!"
-- "Stop the Conquerors!"
-- "Free All of Catan!"
+- [Resist!]({% link scenarios/resist.md %})
+- [Stop the Conquerors!]({% link scenarios/stop-the-conquerors.md %})
+- [Free All of Catan!]({% link scenarios/free-all-of-catan.md %})
 
 ## Parts List
 As with other sets, do note that English sets always display ocean on the reverse side of all single hexes, while international sets do not. Thus, there are no functional differences in the distribution of hexes between the English and international sets.
@@ -46,9 +46,9 @@ As with other sets, do note that English sets always display ocean on the revers
 - Miscellaneous Player Assets
   - 1 [Foundry]({% link equipment/foundry.md %}) tile per player
   - 1 [Horse Farm]({% link equipment/horse-farm.md %}) tile per player
-  - 2 Overview cards for "Resist!" per player
-  - 2 Overview cards for "Stop the Conquerors!" per player
-  - 2 Overview cards for "Free All of Catan!" per player
+  - 2 Overview cards for [Resist!]({% link scenarios/resist.md %}) per player
+  - 2 Overview cards for [Stop the Conquerors!]({% link scenarios/stop-the-conquerors.md %}) per player
+  - 2 Overview cards for [Free All of Catan!]({% link scenarios/free-all-of-catan.md %}) per player
 - Frame Pieces
   - 1 land frame piece
   - 1 land frame piece with spaces 5-15 of the scoring track
@@ -74,8 +74,8 @@ As with other sets, do note that English sets always display ocean on the revers
   - 1 [Politics deck]({% link equipment/politics-progress-card.md %}) (18 cards)
   - 1 [Battle deck]({% link equipment/battle-progress-card.md %}) (20 cards)
 - Scenario-Specific Equipment
-  - "Resist!"
+  - [Resist!]({% link scenarios/resist.md %})
     - 1 [Chapter Board]({% link equipment/chapter-board.md %})
-  - "Free All of Catan!"
+  - [Free All of Catan!]({% link scenarios/free-all-of-catan.md %})
     - 3 Roadblock Markers
-- 1 [Chapter Board]({% link equipment/chapter-board.md %}) for "Stop the Conquerors!" / [Chapter Board]({% link equipment/chapter-board.md %}) for "Free All of Catan!"
+- 1 [Chapter Board]({% link equipment/chapter-board.md %}) for [Stop the Conquerors!]({% link scenarios/stop-the-conquerors.md %}) / [Chapter Board]({% link equipment/chapter-board.md %}) for [Free All of Catan!]({% link scenarios/free-all-of-catan.md %})
