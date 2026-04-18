@@ -21,11 +21,13 @@ groups:
       - title: Fort
         link: equipment/fort.html
       - title: Landing Marker
-        link: equipment/landing-marker.md
+        link: equipment/landing-marker.html
       - title: Progress Card
         subitems:
           - title: Battle
+            link: equipment/battle-progress-card.html
           - title: Politics
+            link: equipment/politics-progress-card.html
       - title: Swamp Hex
       - title: Wine Token
         link: equipment/wine-token.html

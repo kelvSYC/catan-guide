@@ -14,7 +14,7 @@ Note that because of the shape of the pieces, an international [conqueror][conqu
 ## Gameplay
 Forts do not exist as a separate figure in and of itself; they are always associated with the [conqueror][conqueror], and its strength is that of the strength of the [conqueror][conqueror] placed on top. For English pieces, the side of the piece does not matter, as once placed on the board they are stationary until removed.
 
-- **Capturing Forts**: A fort is captured if the combined strength of all adjacent knights are greater than that of the strength of the fort. When a fort is captured, each player with an adjacent knight advances one space on the hero track, and receives the reward shown on the underside of the fort piece.
+- **Capturing Forts**: A fort is captured if the combined strength of all adjacent knights is greater than that of the fort. When a fort is captured, each player with an adjacent knight advances one space on the hero track, and receives the reward shown on the underside of the fort piece.
   - Knights do not need to be activated in order to participate in the capture of a fort. They are also not deactivated when capturing a fort, if they were activated beforehand.
   - The capture of a fort is considered automatic. As such, [cavalry]({% link equipment/cavalry.md %}) who move off of their owners' road networks can be used to capture distant forts.
   - Players with multiple adjacent knights do not advance their hero track more than one space per fort. Similarly, rewards can only be awarded once per player per fort, regardless of how many of a player's knights contributed to its capture.

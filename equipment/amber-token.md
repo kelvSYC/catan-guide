@@ -7,7 +7,7 @@ title: Amber Token
 Lore-wise, amber is said to be plentiful on Catan, but a very valuable commodity: it is said that even people of average means on Catan can afford amber jewelry, yet amber is in high demand in the old world.
 
 ## Appearance
-Amber tokens appear identically in English and international sets, appearing as an irregularly-shaped orange rocks.
+Amber tokens appear identically in English and international sets, appearing as an irregularly-shaped orange rock.
 
 ## Gameplay
 - Amber tokens are generally placed on the board during setup, on designated intersections on the board. Any that are not placed on the board are put into the supply.

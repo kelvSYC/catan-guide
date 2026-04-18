@@ -57,9 +57,9 @@ _Cities & Knights_ includes the following:
   - 12 Coin
   - 12 Paper
 - Progress Cards
-  - 1 Trade card deck (18 cards)
-  - 1 Politics card deck (18 cards)
-  - 1 Science card deck (18 cards)
+  - 1 [Trade card deck]({% link equipment/trade-progress-card.md %}) (18 cards)
+  - 1 [Politics card deck]({% link equipment/politics-progress-card.md %}) (18 cards)
+  - 1 [Science card deck]({% link equipment/science-progress-card.md %}) (18 cards)
 - 6 Defender of Catan cards (English 3rd-5th edition, 1st-3rd international editions)
 - 6 Catan chits (English 6th edition, 4th international edition)
 - 1 set of 2 card trays (English 6th edition, all international editions)

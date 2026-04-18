@@ -2,7 +2,7 @@
 layout: default
 title: Big Game, Big Honor
 ---
-***Catan Scenarios: Big Game, Big Honor*** is a scenario released in 2015 and given away to all participants in the _Catan Big Game_ event at the annual SPIEL event in Essen, Germany that year. Since then, it has been given out as a gift to select _Catan_ tournament entrants, and have otherwise not been made available to the general audience.
+***Catan Scenarios: Big Game, Big Honor*** is a scenario released in 2015 and given away to all participants in the _Catan Big Game_ event at the annual SPIEL event in Essen, Germany that year. Since then, it has been given out as a gift to select _Catan_ tournament entrants, and has otherwise not been made available to the general audience.
 
 ## Scenarios
 - "Big Game, Big Honor"

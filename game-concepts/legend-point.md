@@ -2,7 +2,7 @@
 layout: default
 title: Legend Point
 ---
-**Legend Points** are a game concept used in the two campaign-focused expansions, [_Legend of the Sea Robbers_][sea-robbers] and [_Legend of the Conquerors_][conquerors]. They are a key mechanic behind the campaign progression in both expansion - as players play each of the scenarios in the campaign, players accumulate Legend Points based on how well they did in each game, with the overall winner being the player with the greatest number of Legend Points once all scenarios are played.
+**Legend Points** are a game concept used in the two campaign-focused expansions, [_Legend of the Sea Robbers_][sea-robbers] and [_Legend of the Conquerors_][conquerors]. They are a key mechanic behind the campaign progression in both expansions - as players play each of the scenarios in the campaign, players accumulate Legend Points based on how well they did in each game, with the overall winner being the player with the greatest number of Legend Points once all scenarios are played.
 
 ## Victory Points
 Legend Points are awarded based on the victory point standings at the end of each scenario. This is done unconditionally in the [_Legend of the Sea Robbers_][sea-robbers] campaign, but only if at least one player was declared to have won in the [_Legend of the Conquerors_][conquerors] campaign.

@@ -14,8 +14,11 @@ groups:
       - title: Progress Card
         subitems:
           - title: Politics
+            link: equipment/politics-progress-card.html
           - title: Science
+            link: equipment/science-progress-card.html
           - title: Trade
+            link: equipment/trade-progress-card.html
   - label: Game Concepts
     items:
       - title: Activation

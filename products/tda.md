@@ -30,7 +30,7 @@ As with other sets, do note that English sets always display ocean on the revers
   - 6 Desert - International sets have all hexes have ocean on the reverse side
 - 20 Treasure Tokens for "The Treasure Islands" and "Into the Unknown"
 - 19 Dragons for "The Desert Dragons" and "Enchanted Land" - these are wooden pieces for English sets, but cardboard tokens for international sets
-  - 1 stocker sheet, to be affixed to the bottom of the Dragon pieces, for "Enchanted Land", for English sets only
+  - 1 sticker sheet, to be affixed to the bottom of the Dragon pieces, for "Enchanted Land", for English sets only
 - Player Pieces
   - 4 cities per player
 - Number tokens

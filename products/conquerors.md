@@ -71,8 +71,8 @@ As with other sets, do note that English sets always display ocean on the revers
 - 4 Settlement Markers
 - 4 Road Markers
 - Progress Card Decks
-  - 1 Politics deck (18 cards)
-  - 1 Battle deck (20 cards)
+  - 1 [Politics deck]({% link equipment/politics-progress-card.md %}) (18 cards)
+  - 1 [Battle deck]({% link equipment/battle-progress-card.md %}) (20 cards)
 - Scenario-Specific Equipment
   - "Resist!"
     - 1 Chapter Board

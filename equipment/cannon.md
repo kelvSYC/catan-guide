@@ -7,7 +7,7 @@ title: Cannon
 ## Appearance
 As with other player pieces, cannons are wooden pieces in English sets and plastic pieces in international sets.
 
-Foundry tiles are irregularly-shaped tiles, depicting the cost of the foundry upgrade building on one side, and a description of the cannon's benefits and detach cost on the other side. Aside from the picture of the cannon piece, they are otherwise identical between English and international piece.
+Foundry tiles are irregularly-shaped tiles, depicting the cost of the foundry upgrade building on one side, and a description of the cannon's benefits and detach cost on the other side. Aside from the picture of the cannon piece, they are otherwise identical between English and international sets.
 
 ## Gameplay
 Cannons are a knight upgrade associated with the foundry tile.
