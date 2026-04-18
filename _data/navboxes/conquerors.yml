@@ -15,9 +15,12 @@ groups:
         link: equipment/cannon.html
       - title: Cavalry / Horse Farm
         link: equipment/cavalry.html
+      - title: Chapter Board
+        link: equipment/chapter-board.html
       - title: Conqueror
         link: equipment/conqueror.html
       - title: Direction Tile and Direction Die
+        link: equipment/direction-tile.html
       - title: Fort
         link: equipment/fort.html
       - title: Landing Marker
@@ -33,10 +36,14 @@ groups:
         link: equipment/wine-token.html
   - label: Game Concepts
     items:
+      - title: Barbarian Attack
       - title: Cannoneer
       - title: Cavalry
       - title: Encirclement
       - title: Event
+        link: game-concepts/event-conquerors.html
+      - title: Hero Track
+        link: game-concepts/hero-track.html
       - title: Knight Upgrade
         link: game-concepts/knight-upgrade.html
       - title: Legend Point

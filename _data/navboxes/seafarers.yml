@@ -28,7 +28,9 @@ groups:
     items:
       - title: Beachhead Marker
       - title: Catan chit
+        link: equipment/catan-chit.html
       - title: Cloth Token
+        link: equipment/cloth-token.html
       - title: Gold Field Hex
       - title: Pirate
       - title: Pirate Lair Token
@@ -41,7 +43,10 @@ groups:
   - label: Game Concepts
     items:
       - title: Discovery
+      - title: Home Island
       - title: Paired Player Turn
+      - title: Pirate Fortress
+        link: game-concepts/pirate-fortress.html
       - title: Shipping Line
       - title: Special Build Phase
       - title: Warship

@@ -1,0 +1,23 @@
+title: "*Treasures, Dragons & Adventurers*"
+title_link: products/tda.html
+colors: tda
+groups:
+  - label: Scenarios
+    items:
+      - title: The Treasure Islands
+      - title: Into the Unknown
+      - title: Greater Catan
+      - title: Desert Dragons
+      - title: The Great Canal
+      - title: Enchanted Land
+  - label: Equipment
+    items:
+      - title: Canal Token
+      - title: Dragon
+      - title: Trasure Token
+  - label: Game Concepts
+    items:
+      - title: Depletion Rule
+      - title: Discovery
+      - title: Enchanted Land
+      - title: Knight on Assignment

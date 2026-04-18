@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base-game
 title: Catan Base Game
 ---
 ***Catan***, released in 1995 as _The Settlers of Catan_ and formally shortened in 2010 internationally (between the 2nd and 3rd international editions) and 2015 with the English 5th edition. To many gamers, this is the game that started the modern board gaming craze. The fully modular board promised near-infinite replayability, with its design leading to very close games, meaning that any player can remain in contention to win until the very end.

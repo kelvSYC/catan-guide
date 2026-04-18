@@ -57,3 +57,21 @@ table td {
   --table-accent: #6e4422;
   --table-content: #faf1e8;
 }
+
+.table-base-game {
+  --table-accent: #6b2322;
+  --table-content: #f9eaea;
+}
+
+.table-crop-trust {
+  --table-accent: #4d7490;
+  --table-content: #edf2f7;
+}
+
+td.past-end {
+  background-color: #d0d0d0 !important;
+}
+
+th[scope="row"] {
+  text-align: center;
+}

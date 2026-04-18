@@ -8,11 +8,11 @@ The **Battle Progress Card** deck is a fourth type of progress card deck, introd
 As with all card decks, English and international cards are different in size, with English size using the bespoke "_Catan_ size" (54mm x 80mm) cards and international sets using the mini European size cards (43mm x 67mm). The card backs are also different between English and international sets, with international sets using a red-tinted version of the standard progress card back, while English sets using a back that shares the same art used in "Free All of Catan!". Because of its appearance in international sets, battle progress cards are sometimes known by their color as the **red progress cards**.
 
 ## Gameplay
-Unlike the other progress card decks, battle progress cards are unrelated to the development of city improvements. Instead, they are purchased, like development cards in the base game, whenever a "Wyler's Help" event is resolved. Once purchased, they are treated no differently from any other Progress Card in a player's possession.
+Unlike the other Progress Card decks, Battle Progress Cards are unrelated to the development of city improvements. Instead, they are purchased, like development cards in the base game, whenever a ["Wyler's Help" event][events] is resolved. Once purchased, they are treated no differently from any other Progress Card in a player's possession.
 
-- **Aegis the Naval Heroine**: This card can only be played once the barbarian ship is rolled on the event die. The barbarian ship does not move, and the player to move takes a Defender of Catan card, while all other players take either 1 [Amber token][amber-token] or 1 [Wine token][wine-token] from the supply.
+- **Aegis the Naval Heroine**: This card can only be played once the barbarian ship is rolled on the Event Die. The barbarian ship does not move, and the player to move takes a Defender of Catan card, while all other players take either 1 [Amber token][amber-token] or 1 [Wine token][wine-token] from the supply.
   - The rules do not specify what happens if both the [amber][amber-token] and [wine][wine-token] tokens in the supply are exhausted.
-- **Archers**: In "Stop the Conquerors!", this card is used to negate the movement of any single [Conqueror][conqueror] whenever the "The Conquerors Advance" event resolves. In "Free All of Catan!", this card is used to the removal of knights adjacent to any one [Fort][fort] whenever the "Charge of the Conquerors" event resolves.
+- **Archers**: In "Stop the Conquerors!", this card is used to negate the movement of any single [Conqueror][conqueror] whenever the ["The Conquerors Advance" event][events] resolves. In "Free All of Catan!", this card is used to the removal of knights adjacent to any one [Fort][fort] whenever the ["Charge of the Conquerors" event][events] resolves.
   - This card may be played on any player's turn, not just a player's own turn.
 - **Cavalry Leader Dagur**: This card allows a single knight to temporarily gain 1 strength rating for the purposes of removing a single [Conqueror][conqueror] or [Fort][fort] from the board.
   - Once the [Conqueror][conqueror] or [Fort][fort] is removed from the board, the temporary strength boost expires.
@@ -40,4 +40,5 @@ Unlike the other progress card decks, battle progress cards are unrelated to the
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
 [fort]: {% link equipment/fort.md %}
+[events]: {% link game-concepts/event-conquerors.md %}
 [wine-token]: {% link equipment/wine-token.md %}

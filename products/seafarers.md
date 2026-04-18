@@ -82,10 +82,11 @@ _Seafarers_ includes the following:
   - 1 Ore 2:1 Harbor
   - 1 Wool 2:1 Harbor
   - 5 3:1 Harbors (7 were included in the English 3rd edition and 1st international edition)
-- Catan chits
-  - 32 Catan chits (English 6th edition, 4th international edition)
+- [Catan chits]({% link equipment/catan-chit.md %}) and Victory Point markers
+  - 32 Victory Point markers (English 6th edition, 4th international edition)
   - 50 Catan chits (English 4th-5th editions)
   - 57 Catan chits (2nd-3rd international editions)
+  - 8 Victory Point markers (English 3rd edition and 1st international edition)
 - Scenario Specific Equipment
   - "Cloth for Catan"
     - 50 Cloth Tokens (English 6th edition, 4th international edition)
@@ -96,7 +97,6 @@ _Seafarers_ includes the following:
     - 2 Great Wall markers (English 6th edition, 4th international edition)
     - 2 Great Bridge markers (English 6th edition, 4th international edition)
     - 4 "X" Markers (English 6th edition, 4th international edition)
-- 8 Victory Point markers (English 3rd edition and 1st international edition)
 - 1 Pirate ship
 
 The _Seafarers_ extension includes the following:

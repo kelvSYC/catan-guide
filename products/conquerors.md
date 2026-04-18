@@ -65,8 +65,8 @@ As with other sets, do note that English sets always display ocean on the revers
   - 1 Wool Harbor / Trade Station
 - 32 [Amber tokens]({% link equipment/amber-token.md %})
 - 32 [Wine tokens]({% link equipment/wine-token.md %})
-- 1 Direction Tile
-- 1 Direction Die
+- 1 [Direction Tile]({% link equipment/direction-tile.md %})
+- 1 [Direction Die]({% link equipment/direction-tile.md %})
 - 4 [Landing Markers]({% link equipment/landing-marker.md %})
 - 4 Settlement Markers
 - 4 Road Markers
@@ -75,7 +75,7 @@ As with other sets, do note that English sets always display ocean on the revers
   - 1 [Battle deck]({% link equipment/battle-progress-card.md %}) (20 cards)
 - Scenario-Specific Equipment
   - "Resist!"
-    - 1 Chapter Board
+    - 1 [Chapter Board]({% link equipment/chapter-board.md %})
   - "Free All of Catan!"
     - 3 Roadblock Markers
-- 1 Chapter Board for "Stop the Conquerors!" / Chapter Board for "Free All of Catan!"
+- 1 [Chapter Board]({% link equipment/chapter-board.md %}) for "Stop the Conquerors!" / [Chapter Board]({% link equipment/chapter-board.md %}) for "Free All of Catan!"

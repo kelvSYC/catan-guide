@@ -22,3 +22,13 @@ tda:
   background: "#975f31"
   content: "#faf1e8"
   accent: "#6e4422"
+
+base-game:
+  background: "#8c2f2d"
+  content: "#f9eaea"
+  accent: "#6b2322"
+
+crop-trust:
+  background: "#799bb8"
+  content: "#edf2f7"
+  accent: "#4d7490"

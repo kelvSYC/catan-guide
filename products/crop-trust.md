@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: crop-trust
 title: Crop Trust
 ---
 ***Catan: Crop Trust*** is a boxed scenario, replacing what would normally be the 2018 entry in the _Catan Geographies_ line of scenarios. It was developed in cooperation with the [Global Crop Diversity Trust](https://www.croptrust.org), to raise awareness of reduced crop diversity that can affect the world's food supplies.

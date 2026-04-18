@@ -63,7 +63,7 @@ Politics progress cards are gained by a player whenever the politics face is rol
 - **Help from the South**: When this card is played, one of each resource card is taken from the supply and shuffled to form a face-down stack. Then, each opponent, in turn order, starting with the player to move next, takes the top card from that stack. Finally, the player takes the next two cards from that stack, before returning any remaining cards to the supply.
   - This card may not be played if there is a resource shortage in any of the resources.
 - **Lea the Healer**: This card can only be played whenever a knight is removed from the board as a result of losing a battle with a [Conqueror][conqueror]. This card allows one of the knights removed from the board as a result of battle to be placed back onto the board.
-  - This knight does not have to be a player's own knights. If a player chooses to put back an opponent's knight, the player advances one space on the hero track.
+  - This knight does not have to be a player's own knights. If a player chooses to put back an opponent's knight, the player advances one space on the [hero track][hero-track].
   - Any knight put back on the board is subject to the same placement restrictions as if it were new. As such, it cannot be put back on the board in the same location as before, as it would immediately be defeated.
   - This card may not be played if there are no knights that can be replaced.
   - This card may be played on an opponent's turn, and before the Action Phase of a player's own turn.
@@ -106,4 +106,5 @@ The [_Legend of the Conquerors_][conquerors] Politics deck has 18 cards, and con
 [cities-knights]: {% link products/cities-knights.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
+[hero-track]: {% link game-concepts/hero-track.md %}
 [seafarers]: {% link products/seafarers.md %}
