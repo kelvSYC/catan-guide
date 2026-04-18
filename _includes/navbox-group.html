@@ -2,6 +2,29 @@
 {% assign depth = include.depth | plus: 0 %}
 {% assign next_depth = depth | plus: 1 %}
 
+{% capture navbox_items %}
+{% if group.items %}
+<ul class="navbox-list">
+  {% for item in group.items %}
+  <li>
+    {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
+    {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
+    {%- if item.subitems -%}
+    (<ul class="navbox-subitem-list">
+      {%- for subitem in item.subitems -%}
+      <li>
+        {%- assign subitem_title = subitem.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
+        {%- if subitem.link -%}<a href="{{ subitem.link | relative_url }}">{{ subitem_title }}</a>{%- else -%}{{ subitem_title }}{%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>)
+    {%- endif -%}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endcapture %}
+
 {% if depth == 0 %}
 <div class="navbox-row">
   {% if group.label %}<span class="navbox-group-label">{{ group.label }}</span>{% endif %}
@@ -9,16 +32,7 @@
     {% for subgroup in group.groups %}
       {% include navbox-group.html group=subgroup depth=next_depth %}
     {% endfor %}
-    {% if group.items %}
-    <ul class="navbox-list">
-      {% for item in group.items %}
-      <li>
-        {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
-        {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
-      </li>
-      {% endfor %}
-    </ul>
-    {% endif %}
+    {{ navbox_items }}
   </div>
 </div>
 {% else %}
@@ -27,15 +41,6 @@
   {% for subgroup in group.groups %}
     {% include navbox-group.html group=subgroup depth=next_depth %}
   {% endfor %}
-  {% if group.items %}
-  <ul class="navbox-list">
-    {% for item in group.items %}
-    <li>
-      {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
-      {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
-    </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
+  {{ navbox_items }}
 </div>
 {% endif %}

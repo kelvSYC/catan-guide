@@ -15,9 +15,11 @@ Cannons are a knight upgrade associated with the foundry tile.
 - Each player begins with the foundry tile showing the foundry upgrade building and its cost, and the cannon piece in their supply.
 - Once the foundry is built, the foundry tile is flipped, and the cannon may be attached to a player's own knights.
   - The rules do not state whether the foundry may be built when the cannon cannot be attached to a knight.
-- A knight with an attached cannon is known as a **cannoneer**. A cannoneer has 1 additional strength compared to a knight of the same rank. For example, a basic cannoneer as the same strength as a strong knight.
+- A knight with an attached cannon is known as a **cannoneer**. A cannoneer has 1 additional strength compared to a knight of the same rank. For example, a basic cannoneer has the same strength as a strong knight.
 
 ## Manifest
-1 cannon for the red, blue, orange, and white players are included with [_Legend of the Conquerors_][conquerors]. 4 foundry tiles, one per player, is included in [_Legend of the Conquerors_][conquerors].
+1 cannon for the red, blue, orange, and white players is included with [_Legend of the Conquerors_][conquerors]. 4 foundry tiles, one per player, are included in [_Legend of the Conquerors_][conquerors].
+
+{% include navbox-conquerors.html %}
 
 [conquerors]: {% link products/conquerors.md %}

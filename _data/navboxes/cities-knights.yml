@@ -1,0 +1,32 @@
+title: "*Cities & Knights*"
+title_link: products/cities-knights.html
+colors: cities-knights
+groups:
+  - label: Scenarios
+    items:
+      - title: Cities & Knights
+  - label: Equipment
+    items:
+      - title: Barbarian Track
+      - title: City Walls
+      - title: Knight
+      - title: Merchant
+      - title: Progress Card
+        subitems:
+          - title: Politics
+          - title: Science
+          - title: Trade
+  - label: Game Concepts
+    items:
+      - title: Activation
+      - title: Barbarian Attack
+      - title: City Improvement
+      - title: Commodity
+      - title: Defender of Catan
+      - title: Metropolis
+      - title: Paired Player Turn
+      - title: Promotion
+      - title: Sabotaged City
+      - title: Sixth Settlement
+      - title: Special Build Phase
+      - title: Victory Point Marker

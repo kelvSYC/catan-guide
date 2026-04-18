@@ -67,7 +67,7 @@ As with other sets, do note that English sets always display ocean on the revers
 - 32 [Wine tokens]({% link equipment/wine-token.md %})
 - 1 Direction Tile
 - 1 Direction Die
-- 4 Landing Markers
+- 4 [Landing Markers]({% link equipment/landing-marker.md %})
 - 4 Settlement Markers
 - 4 Road Markers
 - Progress Card Decks

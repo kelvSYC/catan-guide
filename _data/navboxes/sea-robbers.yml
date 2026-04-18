@@ -1,0 +1,31 @@
+title: "*Legend of the Sea Robbers*"
+title_link: products/sea-robbers.html
+colors: seafarers
+groups:
+  - label: Scenarios
+    items:
+      - title: The Castaways
+      - title: The Attack
+      - title: The Battle Against the Sea Robbers*
+      - title: The Spice Islands
+        subitems:
+          - title: Spices for Catan
+  - label: Equipment
+    items:
+      - title: Bog Iron Ore Token
+      - title: Castaway Token
+      - title: Chest Token
+      - title: Friend Card
+      - title: Gold Mining Token
+      - title: Greatest Sea Robber Nemesis
+      - title: Outpost
+      - title: Sea Robber card
+      - title: Sea Robber Lair
+      - title: Sea Robber Ship
+      - title: Spice Hex
+      - title: Trade Option Card
+      - title: Unit
+  - label: Game Concepts
+    items:
+      - title: Legend Point
+        link: game-concepts/legend-point.html

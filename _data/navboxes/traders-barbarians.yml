@@ -1,0 +1,58 @@
+title: "*Traders & Barbarians*"
+title_link: products/traders-barbarians.html
+colors: traders-barbarians
+groups:
+  - label: Scenarios
+    items:
+      - title: Fishing on Catan
+      - title: Rivers of Catan
+      - title: Merchant Trains
+      - title: Barbarian Attack
+      - title: Traders & Barbarians
+        subitems:
+          - title: XXL
+          - title: Ultimate
+  - label: Variants
+    items:
+      - title: The Friendly Robber
+      - title: Harbors of Catan
+      - title: Catan Event Cards
+      - title: Catan for Two
+  - label: Equipment
+    items:
+      - title: Barbarian
+      - title: Bridge
+      - title: Camel
+      - title: Castle Hex (Barbarian Attack)
+      - title: Color die
+      - title: Commodity Token
+      - title: Development Card
+        subitems:
+          - title: Barbarian Attack
+          - title: Traders & Barbarians
+      - title: Fish Token
+      - title: Fishing Ground
+      - title: Gold Coin
+      - title: Harbormaster
+      - title: Knight
+      - title: Lake Hex
+      - title: River
+      - title: Strongest Ports
+      - title: Trade Hex
+        subitems:
+          - title: Castle
+          - title: Glassworks
+          - title: Quarry
+      - title: Trade Token
+      - title: Trade Wagon
+      - title: Wagon
+      - title: '"X" Marker'
+  - label: Game Concepts
+    items:
+      - title: Baggage Train
+      - title: Conquered Hex
+      - title: Neutral Player
+      - title: Paired Player Turn
+      - title: Old Boot
+      - title: Special Build Phase
+      - title: Swampland

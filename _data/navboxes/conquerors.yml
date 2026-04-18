@@ -21,7 +21,12 @@ groups:
       - title: Fort
         link: equipment/fort.html
       - title: Landing Marker
-      - title: Progress Card (Trade, Politics, Science, Battle)
+        link: equipment/landing-marker.md
+      - title: Progress Card
+        subitems:
+          - title: Battle
+          - title: Politics
+      - title: Swamp Hex
       - title: Wine Token
         link: equipment/wine-token.html
   - label: Game Concepts
@@ -30,6 +35,7 @@ groups:
       - title: Cavalry
       - title: Encirclement
       - title: Event
-      - title: Knight
       - title: Knight Upgrade
+        link: game-concepts/knight-upgrade.html
       - title: Legend Point
+        link: game-concepts/legend-point.html

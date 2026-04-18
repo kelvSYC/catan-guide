@@ -1,0 +1,31 @@
+title: "*Explorers & Pirates*"
+title_link: products/explorers-pirates.html
+colors: explorers-pirates
+groups:
+  - label: Scenarios
+    items:
+      - title: Land Ho!
+      - title: The Pirate Lairs
+      - title: Fish for Catan
+      - title: Spices for Catan
+      - title: Explorers & Pirates
+  - label: Equipment
+    items:
+      - title: Council of Catan Hex
+      - title: Crew
+      - title: Fish Haul
+      - title: Gold Coin
+      - title: Gold Field Hex
+      - title: Harbor Settlement
+      - title: Settler
+      - title: Ship
+      - title: Spice Sack
+  - label: Game Concepts
+    items:
+      - title: Mission
+      - title: Paired Player Turn
+      - title: Pirate
+      - title: Pirate Lair
+      - title: Settler Ship
+      - title: Special Build Phase
+      - title: Transshipment

@@ -30,6 +30,8 @@ Forts do not exist as a separate figure in and of itself; they are always associ
 - 2 - 1 grain and 1 [amber][amber]
 - 2 - 1 grain and 1 [wine][wine]
 
+{% include navbox-conquerors.html %}
+
 [amber]: {% link equipment/amber-token.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}

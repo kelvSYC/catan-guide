@@ -43,4 +43,6 @@ Conquerors are used in one of two ways in [_Legend of the Conquerors_][conqueror
 ## Manifest
 20 conquerors are included with [_Legend of the Conquerors_][conquerors]: 4 each in strengths 2, 3, 4, 5, and 6.
 
+{% include navbox-conquerors.html %}
+
 [conquerors]: {% link products/conquerors.md %}

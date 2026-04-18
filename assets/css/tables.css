@@ -1,0 +1,59 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+
+table th, table td {
+  padding: 0.4em 0.8em;
+  text-align: left;
+  border: 1px solid var(--table-accent, #ccc);
+}
+
+table th {
+  background-color: var(--table-accent, #ccc);
+  color: #fff;
+}
+
+table caption {
+  background-color: var(--table-accent, #ccc);
+  color: #fff;
+  font-weight: bold;
+  padding: 0.4em 0.8em;
+  text-align: center;
+  caption-side: top;
+}
+
+table caption a {
+  color: #fff;
+}
+
+table td {
+  background-color: var(--table-content, #fff);
+}
+
+.table-seafarers {
+  --table-accent: #2e6d8e;
+  --table-content: #eaf4f9;
+}
+
+.table-cities-knights {
+  --table-accent: #8a5f35;
+  --table-content: #faf3ea;
+}
+
+.table-traders-barbarians {
+  --table-accent: #5e3350;
+  --table-content: #f7eef4;
+}
+
+.table-explorers-pirates {
+  --table-accent: #1e2f42;
+  --table-content: #eaeff5;
+}
+
+.table-tda {
+  --table-accent: #6e4422;
+  --table-content: #faf1e8;
+}

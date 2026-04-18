@@ -1,0 +1,47 @@
+title: "*Seafarers*"
+title_link: products/seafarers.html
+colors: seafarers
+groups:
+  - label: Scenarios
+    groups:
+      - label: 4th Edition - Present
+        items:
+          - title: Heading for New Shores
+          - title: The Four Islands
+          - title: The Fog Islands
+          - title: Through the Desert
+          - title: The Forgotten Tribe
+          - title: Cloth for Catan
+          - title: The Pirate Islands
+          - title: The Wonders of Catan
+          - title: New World
+      - label: 3rd Edition
+        items:
+          - title: New Shores
+          - title: The Four Islands
+          - title: Oceans
+          - title: Into the Desert
+          - title: New World
+          - title: The Great Crossing
+          - title: Greater Catan
+  - label: Equipment
+    items:
+      - title: Beachhead Marker
+      - title: Catan chit
+      - title: Cloth Token
+      - title: Gold Field Hex
+      - title: Pirate
+      - title: Pirate Lair Token
+      - title: Port Token
+      - title: Sea Hex
+      - title: Ship
+      - title: Victory Point Marker
+      - title: Wonder Tile and Wonder Marker
+      - title: '"X" Marker'
+  - label: Game Concepts
+    items:
+      - title: Discovery
+      - title: Paired Player Turn
+      - title: Shipping Line
+      - title: Special Build Phase
+      - title: Warship
