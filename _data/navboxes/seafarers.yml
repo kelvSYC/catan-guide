@@ -39,6 +39,7 @@ groups:
       - title: Ship
       - title: Victory Point Marker
       - title: Wonder Tile and Wonder Marker
+        link: equipment/wonder-tile.html
       - title: '"X" Marker'
   - label: Game Concepts
     items:

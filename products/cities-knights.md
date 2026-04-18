@@ -47,7 +47,7 @@ _Cities & Knights_ includes the following:
 - 3 Metropolis Arches (English editions and 1st international edition only)
 - 3 Metropolis Caps (Viking wood sets only)
 - 1 set of 3 Metropolis markers (English 3rd-5th editions only)
-- 1 Merchant
+- 1 [Merchant]({% link equipment/merchant.md %})
 - 1 Barbarian track (English 3rd-5th editions, 1st-3rd international editions)
 - 1 Barbarian ship marker
 - 1 Event die

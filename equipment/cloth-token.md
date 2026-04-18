@@ -13,7 +13,7 @@ Cloth tokens are square tokens that depict cloth (as seen in [_Cities & Knights_
 - Every pair of Cloth Tokens is worth 1 victory point. An unpaired Cloth Token is worth no victory points.
 
 ## Manifest
-50 Cloth tokens are included with the English 6th edition of [_Seafarers_][seafarers].
+50 Cloth tokens are included with the English 6th edition of [_Seafarers_][seafarers], and 20 additional tokens are included in the [_Seafarers_] extension.
 
 {% include navbox-seafarers.html %}
 

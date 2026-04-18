@@ -16,6 +16,7 @@ Trade Progress Cards are gained by a player whenever the trade face is rolled on
   - This "forced trade" can only be done with players with commodity cards in their hand. A player with no commodity card in their hand neither gives nor receives cards.
   - This "forced trade" is otherwise optional for the player; a player is not required to make the exchange with every opponent. (For example, they may not have enough resource cards in their hand to accommodate making exchanges with all opponents.)
   - A player may only perform this "forced trade" with each opponent once per turn, even if they play multiple copies of this card. In other words, if a player performs a "forced trade" with an opponent that turn, they cannot make another "forced trade" to the same opponent, even through the effect of another copy of this card, that same turn.
+  - The commodity card transferred is chosen by the opponent. In the English 3rd edition (1st international edition), the commodity card transferred is chosen by the player.
 - **Guild Dues**: This card allows a player to look at the hand of any opponent with greater number of victory points, and take two cards from their hand.
   - This card was known as **Master Merchant** prior to the English 6th edition.
   - A player may not play this card if there are no eligible players, or if the only eligible players have no cards in their hand, as this would constitute discarding a card for no effect.

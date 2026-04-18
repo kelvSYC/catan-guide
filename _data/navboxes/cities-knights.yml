@@ -9,8 +9,11 @@ groups:
     items:
       - title: Barbarian Track
       - title: City Walls
+      - title: Defender of Catan Card
+        link: equipment/defender-of-catan-card.html
       - title: Knight
       - title: Merchant
+        link: equipment/merchant.md
       - title: Progress Card
         subitems:
           - title: Politics
@@ -30,6 +33,7 @@ groups:
       - title: Paired Player Turn
       - title: Promotion
       - title: Sabotaged City
+        link: game-concepts/sabotaged-city.html
       - title: Sixth Settlement
       - title: Special Build Phase
       - title: Victory Point Marker

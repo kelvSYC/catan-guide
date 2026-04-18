@@ -60,7 +60,7 @@ _Seafarers_ includes the following:
   - "The Pirate Islands"
     - 1 Beachhead Marker per player (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
-    - 1 Wonder marker per player (English 6th edition, 4th international edition)
+    - 1 [Wonder marker][wonder-marker] per player (English 6th edition, 4th international edition)
 - Miscellaneous Player Assets
   - 1 building cost card per player (English 6th edition, 4th international edition)
 - Number tokens
@@ -93,7 +93,7 @@ _Seafarers_ includes the following:
   - "The Pirate Islands"
     - 12 Pirate Lair Tokens (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
-    - 1 set of 5 Wonder Tiles (English 6th edition, 4th international edition)
+    - 1 set of 5 [Wonder Tiles][wonder-tile] (English 6th edition, 4th international edition)
     - 2 Great Wall markers (English 6th edition, 4th international edition)
     - 2 Great Bridge markers (English 6th edition, 4th international edition)
     - 4 "X" Markers (English 6th edition, 4th international edition)
@@ -109,7 +109,7 @@ The _Seafarers_ extension includes the following:
   - "The Pirate Islands"
     - 1 Beachhead Marker per player (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
-    - 1 Wonder marker per player (English 6th edition, 4th international edition)
+    - 1 [Wonder marker][wonder-marker] per player (English 6th edition, 4th international edition)
 - Frame Pieces
   - 2 2-hex frame extensions (English 4th-6th editions and 2nd-4th international editions)
 - Harbor Pieces
@@ -127,7 +127,7 @@ The _Seafarers_ extension includes the following:
   - "The Pirate Islands"
     - 6 Pirate Lair Tokens (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
-    - 1 set of 2 Wonder Tiles (English 6th edition, 4th international edition)
+    - 1 set of 2 [Wonder Tiles][wonder-tile] (English 6th edition, 4th international edition)
     - 2 Lighthouse markers (English 6th edition, 4th international edition)
     - 4 "X" Markers (English 6th edition, 4th international edition)
 - 1 set of 2 Paired Player Markers (English 6th edition, 4th International edition only), with figure stands
@@ -137,3 +137,6 @@ The _Seafarers_ extension includes the following:
 - Catan chits may be of a non-standard larger size in international _Seafarers_ extension sets.
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
+
+[wonder-marker]: {% link equipment/wonder-marker.md %}
+[wonder-tile]: {% link equipment/wonder-tile.md %}

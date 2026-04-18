@@ -1,0 +1,4 @@
+{% assign _eb_colors = site.data.colors[include.layout] %}
+<div class="expansion-box" style="--box-accent: {{ _eb_colors.accent }}; --box-content: {{ _eb_colors.content }};">
+  {{ include.content | markdownify }}
+</div>
