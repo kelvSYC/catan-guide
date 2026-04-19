@@ -27,7 +27,9 @@ title: Atlantis
 - 1 Event Card deck (37 cards)
 - 1 Harbormaster scoring bonus
 - 5 Specialist card scoring bonuses
-- 7 city wall pieces
+- 7 [City Wall pieces][city-walls]
 - 6 castle pieces
 - 30 Red chips / Storm flood markers
 - 30 Gold tokens / Storm flood markers
+
+[city-walls]: {% link equipment/city-walls.md %}

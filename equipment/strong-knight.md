@@ -7,7 +7,7 @@ A **Strong Knight** is one of the three types of [Knight][knight-ck] introduced 
 ## Appearance
 In English editions up to the 6th edition, and the 1st international edition, all [Knights][knight-ck], including Strong Knights, were represented by a round disc with a sticker on both sides. Depending on which side was face-up, a knight would be considered activated or deactivated: English sets generally have a colored side denoting activation, while international sets generally show the cost of activation on its deactivated side.
 
-International sets have used two designs for Strong Knights. Early 2nd internatonal edition sets used a design with a moveable arm, where the position of the arm indicated its activation status. Due to the prospect of the arm wearing out or breaking, later sets now have a fixed arm design, instead relying on a separate helmet piece to denote that a knight is activated.
+International sets have used two designs for Strong Knights. Early 2nd international edition sets used a design with a moveable arm, where the position of the arm indicated its activation status. Due to the prospect of the arm wearing out or breaking, later sets now have a fixed arm design, instead relying on a separate helmet piece to denote that a knight is activated.
 
 Both Viking wood and English 6th edition piece uses a two-headed piece to denote a Strong Knight. Both pieces are capable of adopting the English 6th edition convention of placing it on its side to show that it is deactivated, and upright to show that it is activated. However, Viking wood pieces generally place the piece upright and use a separate gold activation flag to show that the piece is activated.
 

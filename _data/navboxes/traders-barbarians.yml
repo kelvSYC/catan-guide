@@ -25,11 +25,20 @@ groups:
       - title: Camel
       - title: Castle Hex (Barbarian Attack)
       - title: Color die
+        link: equipment/color-die.html
+      - title: Commodity Hex
+        subitems:
+          - title: Castle
+          - title: Glassworks
+          - title: Quarry
       - title: Commodity Token
+        link: equipment/commodity-token.html
       - title: Development Card
         subitems:
           - title: Barbarian Attack
+            link: equipment/development-card-ba.html
           - title: Traders & Barbarians
+            link: equipment/development-card-tb.html
       - title: Fish Token
       - title: Fishing Ground
       - title: Gold Coin
@@ -39,23 +48,25 @@ groups:
       - title: Lake Hex
       - title: River
       - title: Strongest Ports
-      - title: Trade Hex
-        subitems:
-          - title: Castle
-          - title: Glassworks
-          - title: Quarry
+      - title: Swamp Hex
       - title: Trade Token
       - title: Trade Wagon
       - title: Wagon
-      - title: '"X" Marker'
+      - title: Watering Hole Hex
+      - title: "\"X\" Marker"
   - label: Game Concepts
     items:
       - title: Baggage Train
+      - title: Bridge Site
+        link: game-concepts/bridge-site.html
       - title: Conquered Hex
       - title: Knight
         link: game-concepts/knight-ba.html
       - title: Neutral Player
       - title: Paired Player Turn
       - title: Old Boot
+      - title: Poor Catanian
       - title: Special Build Phase
-      - title: Swampland
+        link: game-concepts/special-build-phase.html
+      - title: Voting Round
+      - title: Wealthiest Catanian

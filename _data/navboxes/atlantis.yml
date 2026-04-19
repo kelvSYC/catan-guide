@@ -1,0 +1,32 @@
+title: "*Atlantis*"
+title_link: products/atlantis.html
+colors: base-game
+groups:
+  - label: Scenarios
+    items:
+      - title: Atlantis
+      - title: Catan Event Cards
+      - title: In the Jungle
+      - title: Volcanoes on Catan
+      - title: The Specialists
+      - title: The City Walls
+      - title: Castles on Catan
+      - title: The Great River
+      - title: The Harbormaster
+      - title: The Magic 7
+  - label: Equipment
+    items:
+      - title: Castle
+      - title: Citadel Hex
+      - title: City Walls
+        link: equipment/city-walls.html
+      - title: Event Cards
+      - title: Jungle Hex
+      - title: Magic 7 Number Disc
+      - title: Specialist Card
+      - title: Storm Flood Marker
+      - title: Strongest Ports
+      - title: Volcano Hex
+  - label: Game Concepts
+    items:
+      - title: Magic 7

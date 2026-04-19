@@ -7,7 +7,7 @@ A **Basic Knight** is one of the three types of [Knight][knight-ck] introduced i
 ## Appearance
 In English editions up to the 6th edition, and the 1st international edition, all [Knights][knight-ck], including Basic Knights, were represented by a round disc with a sticker on both sides. Depending on which side was face-up, a knight would be considered activated or deactivated: English sets generally have a colored side denoting activation, while international sets generally show the cost of activation on its deactivated side.
 
-International sets have used two designs for Basic Knights. Early 2nd internatonal edition sets used a design with a moveable arm, where the position of the arm indicated its activation status. Due to the prospect of the arm wearing out or breaking, later sets now have a fixed arm design, instead relying on a separate helmet piece to denote that a knight is activated.
+International sets have used two designs for Basic Knights. Early 2nd international edition sets used a design with a moveable arm, where the position of the arm indicated its activation status. Due to the prospect of the arm wearing out or breaking, later sets now have a fixed arm design, instead relying on a separate helmet piece to denote that a knight is activated.
 
 The English 6th edition reuses the crew piece from [_Explorers & Pirates_][explorers-pirates] to denote a Basic Knight. A knight is considered deactivated if it is placed on its side, and activated if it is placed standing up.
 

@@ -1,0 +1,26 @@
+title: "_Catan_ base game"
+colors: base-game
+groups:
+  - label: Scenarios
+    items:
+      - title: The First Island
+  - label: Equipment
+    items:
+      - title: City
+      - title: Development Card
+      - title: Road
+      - title: Robber
+      - title: Settlement
+  - label: Game Concepts
+    items:
+      - title: Distance Rule
+      - title: Domestic Trade
+      - title: Largest Army
+      - title: Longest Route
+      - title: Maritime Trade
+      - title: Paired Player Turn
+      - title: Resource
+      - title: Special Build Phase
+        link: game-concepts/special-build-phase.html
+      - title: Trade Before Building
+      - title: Victory Point Card

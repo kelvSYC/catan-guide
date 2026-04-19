@@ -4,7 +4,7 @@ title: Traders & Barbarians
 ---
 ***Catan: Traders & Barbarians***, released in 2007, is the third major expansion to _Catan_, and the first since the switch to plastic pieces in the 2nd international edition, and the first since the release of the English 4th edition. Within the color-coding system of expansions, international sets briefly used a yellow color, before standardising on the purple used in the English editions, starting with the 3rd international edition.
 
-Unlike _Seafarers_ and _Cities & Knights_ before it or _Explorers & Pirates_ after it, _Traders & Barbarians_ does not consist of a central game mechanic or scenario: rather, it acts as a collection of scenarios and variants. Some of these expansions were previously available as standalone mini-expansions.
+Unlike _Seafarers_ and _Cities & Knights_ before it or _Explorers & Pirates_ after it, _Traders & Barbarians_ does not consist of a central game mechanic or scenario: rather, it acts as a collection of scenarios and variants. Some of these scenarios and variants were previously available as standalone mini-expansions.
 
 Unlike the expansions before it, there is no specific compatibility between the scenarios and variants introduced in this expansion, though there was a major addendum released on the _Catan_ website. Notably, until the release of the English 6th edition, some of the compatibility notes referenced setups from _Seafarers_ present in the English 4th edition, even after many of these setups were redesigned in 2008 and were put into the English 5th edition.
 
@@ -14,8 +14,8 @@ Unlike the expansions before it, there is no specific compatibility between the 
 - "Merchant Trains" - Originally available as a standalone product, though not in English.
 - "Barbarian Attack"
 - "Traders & Barbarians"
-  - "Traders & Barbarians XXL" - an officially endorsed scenario of the now-defunct Siedeln.de community
-  - "Traders & Barbarians Ultimate" - an officially endorsed scenario attempting to use as many components of the expansion as possible
+  - "Traders & Barbarians XXL" by Grzegorz Kobiela - an officially endorsed scenario of the now-defunct Siedeln.de community
+  - "Traders & Barbarians Ultimate" by Ignasi Mata I Pavia - an officially endorsed scenario attempting to use as many components of the expansion as possible
 
 - "The Friendly Robber" - Originated as a popular house rule, and is regarded as the sole exception to the policy of not publishing common house rules
 - "Harbors of Catan" - Originally available as a free download in English. Previously included as part of [_Atlantis_]({% link products/atlantis.md %}).
@@ -88,9 +88,9 @@ _Traders & Barbarians_ includes the following:
     - 22 Trade Wagons
   - "Barbarian Attack"
     - 1 color die (international editions only)
-    - 1 Development Card deck (26 cards)
+    - 1 [Development Card][development-card-ba] deck (26 cards)
   - "Traders & Barbarians"
-    - 1 Development Card deck (25 cards)
+    - 1 [Development Card][development-card-tb] deck (25 cards)
     - 36 Commodity Tokens
     - 9 "X" Markers (English 6th edition and 4th international edition only)
   - "Harbors of Catan"
@@ -157,7 +157,7 @@ The _Traders & Barbarians_ extension includes the following:
     - 11 Merchant Wagons
   - "Traders & Barbarians"
     - 18 commodity tokens
-    - 1 Development card deck (12 cards)
+    - 1 [Development card][development-card-tb] deck (12 cards)
 - 12 barbarians
 - 1 set of 2 Paired Player Markers (English 6th edition, 4th International edition only), with figure stands
 
@@ -166,8 +166,10 @@ The _Traders & Barbarians_ extension includes the following:
 - The 2nd and 3rd international edition extensions had a double-sided Castle hex, with the hex for "Barbarian Attack" on one side and the one for "Traders & Barbarians" for the other. These are always separate hexes in English sets.
 - The 2nd and 3rd international edition extension used a double-sided hex, with the Lake hex on one side and Watering Hole hex on the other. These are always separate hexes in English sets.
 - Different editions of _Traders & Barbarians_ may have different hex edge configurations for the "Traders & Barbarians" trade hexes
-- The coins used between this expansion and [_Explorers & Pirates_]({% link products/explorers-pirates.md %}) are intended to be interchangeable for gameplay purposes, but only the English 6th edition sets are they interchangeable in practice. International sets use plastic coins in _Traders & Barbarians_ and cardboard coins in [_Explorers & Pirates_]({% link products/explorers-pirates.md %}).
+- The coins used between this expansion and [_Explorers & Pirates_]({% link products/explorers-pirates.md %}) are intended to be interchangeable for gameplay purposes, but only in English 6th edition sets are they interchangeable in practice. International sets use plastic coins in _Traders & Barbarians_ and cardboard coins in [_Explorers & Pirates_]({% link products/explorers-pirates.md %}).
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
 
+[development-card-ba]: {% link equipment/development-card-ba.md %}
+[development-card-tb]: {% link equipment/development-card-tb.md %}
 [knight-ba]: {% link equipment/knight-ba.md %}

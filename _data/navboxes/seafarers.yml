@@ -40,7 +40,7 @@ groups:
       - title: Victory Point Marker
       - title: Wonder Tile and Wonder Marker
         link: equipment/wonder-tile.html
-      - title: '"X" Marker'
+      - title: "\"X\" Marker"
   - label: Game Concepts
     items:
       - title: Discovery
@@ -50,4 +50,5 @@ groups:
         link: game-concepts/pirate-fortress.html
       - title: Shipping Line
       - title: Special Build Phase
+        link: game-concepts/special-build-phase.html
       - title: Warship

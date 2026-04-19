@@ -22,8 +22,8 @@ _Cities & Knights_ includes the following:
     - English 3rd-5th edition, 1st international edition:
       - 6 [Knight][knight-ck] discs
       - 1 set of 6 stickers per player, to be applied to the [Knight][knight-ck] discs
-  - 3 city walls per player
-  - 1 set of 3 stickers per player, to be applied to the city walls (1st international edition only)
+  - 3 [City Walls][city-walls] per player
+  - 1 set of 3 stickers per player, to be applied to the [City Walls][city-walls] (1st international edition only)
   - 3 metropolis towers per player (2nd-4th international editions only)
 - Other Player Related Assets
   - City Improvements
@@ -76,8 +76,8 @@ The _Cities & Knights_ extension includes the following:
     - English 3rd-5th edition, 1st international edition:
       - 6 [Knight][knight-ck] discs
       - 1 set of 6 stickers per player, to be applied to the [Knight][knight-ck] discs
-  - 3 city walls per player
-  - 1 set of 3 stickers per player, to be applied to the city walls (1st international edition only)
+  - 3 [City Walls][city-walls] per player
+  - 1 set of 3 stickers per player, to be applied to the [City Walls][city-walls] (1st international edition only)
   - 3 metropolis towers per player (2nd-4th international editions only)
 - Other Player Related Assets
   - City Improvements
@@ -105,12 +105,13 @@ The _Cities & Knights_ extension includes the following:
 - 1 set of 2 Paired Player Markers (English 6th edition, 4th International edition only), with figure stands
 
 **Notes**:
-- Viking wood sets include a 4th city wall per player.
+- Viking wood sets include a 4th [City Wall][city-walls] per player.
 - Some international sets do not include a building cost reference card in the extension, resulting in only 4 of the 6 players having them.
 - Early 2nd international edition sets used an alternate knight design where one arm was moveable to denote activation status.
 - Although the base game has included a red die since the English 4th edition (2nd international edition) for the purposes of not needing one packaged with _Cities & Knights_, international sets still include a red die for compatibility purposes, in case the base game does not include one.
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
 
-[defender-of-catan-card]: {% link equipment/defender-of-catan-card %}
+[city-walls]: {% link equipment/city-walls.md %}
+[defender-of-catan-card]: {% link equipment/defender-of-catan-card.md %}
 [knight-ck]: {% link game-concepts/knight-ck.md %}

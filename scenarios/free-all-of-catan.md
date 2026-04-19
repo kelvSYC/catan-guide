@@ -51,17 +51,17 @@ Roadblock markers, as the name implies, prevent the building of roads along a pa
 - Players may not build roads on paths with adjacent [Forts][fort] on both sides.
 - Players may not build settlements on intersections with an adjacent [Fort][fort].
 
-Game is to 18 points. However, the game may also end if the barbarians reach one of the last three spaces on the track, and the red die rolled on the production roll shows a specific number as indicated on the space. If the latter occurrs:
+Game is to 18 points. However, the game may also end if the barbarians reach one of the last three spaces on the track, and the red die rolled on the production roll shows a specific number as indicated on the space. If the latter occurs:
 - If there are 2 or fewer [Forts][fort] left on the board in a 3-player game, or 3 or fewer [Forts][fort] in a 4-player game, the player with the most victory points is declared the winner. If there is a tie, the players furthest along on the [Hero Track][hero-track] amongst those tied are collectively declared the winners.
 - Otherwise, the players are considered defeated.
 
 [Legend Points][legend-point] are awarded as follows:
-- **If the players were defeated**: The players who have advanced the furthest on the [Hero Track][hero-track], provided they have advanced at least one space, recieve 2 [Legend Points][legend-point]. The players who have advanced the next furthest on the [Hero Track][hero-track], provided they have advanced at least one space, receive 1 [Legend Point][legend-point].
+- **If the players were defeated**: The players who have advanced the furthest on the [Hero Track][hero-track], provided they have advanced at least one space, receive 2 [Legend Points][legend-point]. The players who have advanced the next furthest on the [Hero Track][hero-track], provided they have advanced at least one space, receive 1 [Legend Point][legend-point].
 - **If the players were victorious**:
   - **Victory Points**: 9 [Legend Points][legend-point] are awarded to the players with the most victory points, 7 to the players with the next most, 5 to the players with the most after that, and 2 to the players with the most after that.
   - **Hero Track**: 2 [Legend Points][legend-point] for the players furthest along the [Hero Track][hero-track], provided they have advanced at least one space. 1 [Legend Point][legend-point] for the players next furthest along the [Hero Track][hero-track], also provided they have advanced at least one space.
 
-When playing the campaign, players who were defeated must re-attempt the scenario, either with the normal setup or with the handicap setup. Players who were victorious now tally up the [Legend Points][legend-point] accumulated over the course of the campaign. The winner of the campaign is the player with the most [Legend Points][legend-point]. If there is a tie, the total progress on the [Hero Tracks][hero-track] on the winning playthroughs of each scenario is used as a tiebreaker. ([Hero Track][hero-track] progression on scenario playthroughs where the players are defeated do not count.) If this still results in a tie, the second tiegreaker goes to total victory points on winning scenario playthroughs. (Again, disregard playthroughs where players are defeated.)
+When playing the campaign, players who were defeated must re-attempt the scenario, either with the normal setup or with the handicap setup. Players who were victorious now tally up the [Legend Points][legend-point] accumulated over the course of the campaign. The winner of the campaign is the player with the most [Legend Points][legend-point]. If there is a tie, the total progress on the [Hero Tracks][hero-track] on the winning playthroughs of each scenario is used as a tiebreaker. ([Hero Track][hero-track] progression on scenario playthroughs where the players are defeated do not count.) If this still results in a tie, the second tiebreaker goes to total victory points on winning scenario playthroughs. (Again, disregard playthroughs where players are defeated.)
 
 ## Setups
 - 3 Player Setup

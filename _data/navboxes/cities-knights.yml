@@ -9,6 +9,7 @@ groups:
     items:
       - title: Barbarian Track
       - title: City Walls
+        link: equipment/city-walls.html
       - title: Defender of Catan Card
         link: equipment/defender-of-catan-card.html
       - title: Knight
@@ -20,7 +21,7 @@ groups:
           - title: Mighty
             link: equipment/mighty-knight.html
       - title: Merchant
-        link: equipment/merchant.md
+        link: equipment/merchant.html
       - title: Progress Card
         subitems:
           - title: Politics
@@ -45,4 +46,5 @@ groups:
         link: game-concepts/sabotaged-city.html
       - title: Sixth Settlement
       - title: Special Build Phase
+        link: game-concepts/special-build-phase.html
       - title: Victory Point Marker
