@@ -20,7 +20,7 @@ Unlike the other Progress Card decks, Battle Progress Cards are unrelated to the
 - **Crossbows**: In [Stop the Conquerors!][stop-the-conquerors], this card is used to resolve any one standoff between knights and [Conquerors][conqueror] in favor of the knights, removing the [Conqueror][conqueror] from the board by battle. In [Free All of Catan!][free-all-of-catan], this card can be played to allow knights to capture [Forts][fort] with equal strength, instead of greater strength normally required.
 - **Quartermaster Odo**: This card can be used to activate all of a player's knights, and, if a player's knight has not already expended its knight action, perform a knight action with it.
   - Remember that normally, a knight that has been activated cannot normally perform a knight action later the same turn, and that a knight may perform one knight action per turn. As such, this card allows a player to perform a knight action using a knight that started the turn deactivated; this knight will also end the turn deactivated as a result of performing said action.
-- **Thora**: This card can only be played after production, and only if no other player has a face-up Thora on the board. While this card is face-up, all knights belonging to the player has 1 additional strength rating (meaning that basic knights under the effect of Thora have the same strength rating as that of a strong knight). Thora is then returned to the Battle Progress Card deck before production is resolved on the player's next turn.
+- **Thora**: This card can only be played after production, and only if no other player has a face-up Thora on the board. While this card is face-up, all knights belonging to the player has 1 additional strength rating (meaning that [Basic Knights][basic-knight] under the effect of Thora have the same strength rating as that of a [Strong Knight][strong-knight]). Thora is then returned to the Battle Progress Card deck before production is resolved on the player's next turn.
   - A face-up Thora does not contribute to the progress card limit for a player.
 
 ## Manifest
@@ -36,11 +36,13 @@ Unlike the other Progress Card decks, Battle Progress Cards are unrelated to the
 {% include navbox-conquerors.html %}
 
 [amber-token]: {% link equipment/amber-token.md %}
+[basic-knight]: {% link equipment/basic-knight.md %}
 [cities-knights]: {% link products/cities-knights.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
 [events]: {% link game-concepts/event-conquerors.md %}
 [fort]: {% link equipment/fort.md %}
 [free-all-of-catan]: {% link scenarios/free-all-of-catan.md %}
+[strong-knight]: {% link equipment/strong-knight.md %}
 [stop-the-conquerors]: {% link scenarios/stop-the-conquerors.md %}
 [wine-token]: {% link equipment/wine-token.md %}

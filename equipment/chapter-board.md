@@ -195,10 +195,10 @@ Because a Chapter Board consists of two separate tracks, each of the two tracks 
 - At the start of the game, each player places a marker on space 0 on the hero track.
 - Markers on the same space are stacked on top of each other in any order. The order in which markers are stacked do not matter.
 - The location of a player's marker indicates the number of additional victory points that have been awarded to that player.
-- A player must have advanced one space on the Hero Track in order to gain [Legend Points][legend-point] in the [_Legend of the Conquerors_][conquerors] campagign.
+- A player must have advanced one space on the Hero Track in order to gain [Legend Points][legend-point] in the [_Legend of the Conquerors_][conquerors] campaign.
 - **Legend Point Scoring**: [Legend Points][legend-point] are awarded after players complete the scenario, regardless of whether players are victorious or defeated.
   - If players are defeated, the players that have advanced the furthest score 2 [Legend Points][legend-point], and the players who have advanced the next furthest score 1 [Legend Point][legend-point].
-  - If players are victorious, the scame scoring is done, except tha the players that earned the most victory points (which are not necessarily the winners) do not score [Legend Points][legend-point]. The number of spaces advanced should also be noted, as the number of spaces advanced across victorious scenario playthroughs as a tiebreaker in determining victory over the course of a campaign.
+  - If players are victorious, the same scoring is done, except the players that earned the most victory points (which are not necessarily the winners) do not score [Legend Points][legend-point]. The number of spaces advanced should also be noted, as the number of spaces advanced across victorious scenario playthroughs as a tiebreaker in determining victory over the course of a campaign.
 
 **Barbarian Track**
 - At the start of the game, the barbarian ship is placed on the first space on the track.

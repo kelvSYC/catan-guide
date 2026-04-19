@@ -12,7 +12,7 @@ In the scenarios of the [_Legend of the Conquerors_][conquerors] campaign, **eve
   - Any currency paid towards the purchase of [Battle Progress Cards][battle-progress-card] is returned to the supply.
 - **Support from the South**: This event is associated either with [amber][amber-token] or [wine][wine-token]. When this event resolves, each player, starting with the player to move and proceeding in turn order, takes one token of the specified type from the supply.
   - If the supply is out of tokens for that particular type, then the remaining players receive no tokens.
-- **Support from the East***: This event only happens in [Free All of Catan!][free-all-of-catan]. When this event resolves, each player, starting with the player to move and proceeding in turn order, may place one road on the board at no cost, so long as the road is on or beyond a line of demarcation on the board, indicated on the setup charts.
+- **Support from the East**: This event only happens in [Free All of Catan!][free-all-of-catan]. When this event resolves, each player, starting with the player to move and proceeding in turn order, may place one road on the board at no cost, so long as the road is on or beyond a line of demarcation on the board, indicated on the setup charts.
   - Players may not build a road if they have no road pieces in their supply, or if their only road placement options are behind the line of demarcation.
 - **Charge of the Conquerors**: This event only happens in [Free All of Catan!][free-all-of-catan]. When this event resolves, all knights on intersections adjacent to [Forts][fort] are removed from the board.
 

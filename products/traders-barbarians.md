@@ -50,7 +50,7 @@ _Traders & Barbarians_ includes the following:
   - "Rivers of Catan"
     - 3 bridges per player
   - "Barbarian Attack"
-    - 6 knights per player
+    - 6 [Knights][knight-ba] per player
   - "Traders & Barbarians"
     - 1 wagon per player
 - Miscellaneous Player Specific Assets
@@ -126,7 +126,7 @@ The _Traders & Barbarians_ extension includes the following:
   - "Rivers of Catan"
     - 3 bridges per player
   - "Barbarian Attack"
-    - 6 knights per player
+    - 6 [Knights][knight-ba] per player
   - "Traders & Barbarians"
     - 1 wagon per player
 - Miscellaneous Player Specific Assets
@@ -169,3 +169,5 @@ The _Traders & Barbarians_ extension includes the following:
 - The coins used between this expansion and [_Explorers & Pirates_]({% link products/explorers-pirates.md %}) are intended to be interchangeable for gameplay purposes, but only the English 6th edition sets are they interchangeable in practice. International sets use plastic coins in _Traders & Barbarians_ and cardboard coins in [_Explorers & Pirates_]({% link products/explorers-pirates.md %}).
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
+
+[knight-ba]: {% link equipment/knight-ba.md %}

@@ -44,10 +44,10 @@ Roadblock markers, as the name implies, prevent the building of roads along a pa
 - Due to the lack of 3:1 trade options otherwise on the map, the default prevailing trade rate is 3:1
 - The [Politics Progress Card][politics-progress-card] from [_Cities & Knights_][cities-knights] is used, instead of the ones introduced in [_Legend of the Conquerors_][conquerors].
 - Players begin with two initial settlements. The first settlement and road must be placed on one of the locations specified by the settlement and road markers.
-  - After both settlements are placed, players must replace either of their settlements with a city, and place a basic knight (strong knight with the handicap setup). This is done in reverse player order, continuing with the snake-style initial placement. The knight must be placed deactivated.
+  - After both settlements are placed, players must replace either of their settlements with a city, and place a [Basic Knight][basic-knight] ([Strong Knight][strong-knight] with the handicap setup). This is done in reverse player order, continuing with the snake-style initial placement. The knight must be placed deactivated.
   - The starting resources for each player is based on the location of the second settlement, not the location of the city.
 - If playing with the handicap setup, each player starts the game with one [Politics Progress Card][politics-progress-card], one [Battle Progress Card][battle-progress-card], both the town hall (first level of the Politics city improvement) and abbey (first level of the Science city improvement), and a city wall for their starting city.
-- Note that this is the only scenario in the [_Legend of the Conquerors_][conquerors] campaign without the skip-rank knight deployment rule: strong and mighty knights must be placed by promoting a knight of the previous rank, as per the rules of [_Cities & Knights_][cities-knights].
+- Note that this is the only scenario in the [_Legend of the Conquerors_][conquerors] campaign without the skip-rank knight deployment rule: [Strong][strong-knight] and [Mighty Knights][mighty-knight] must be placed by promoting a knight of the previous rank, as per the rules of [_Cities & Knights_][cities-knights].
 - Players may not build roads on paths with adjacent [Forts][fort] on both sides.
 - Players may not build settlements on intersections with an adjacent [Fort][fort].
 
@@ -70,6 +70,7 @@ When playing the campaign, players who were defeated must re-attempt the scenari
 {% include navbox-conquerors.html %}
 
 [amber-token]: {% link equipment/amber-token.md %}
+[basic-knight]: {% link equipment/basic-knight.md %}
 [battle-progress-card]: {% link equipment/battle-progress-card.md %}
 [cannon]: {% link equipment/cannon.md %}
 [cavalry]: {% link equipment/cavalry.md %}
@@ -81,6 +82,8 @@ When playing the campaign, players who were defeated must re-attempt the scenari
 [hero-track]: {% link game-concepts/hero-track.md %}
 [knight-upgrade]: {% link game-concepts/knight-upgrade.md %}
 [legend-point]: {% link game-concepts/legend-point.md %}
+[mighty-knight]: {% link equipment/mighty-knight.md %}
+[strong-knight]: {% link equipment/strong-knight.md %}
 [politics-progress-card]: {% link equipment/politics-progress-card.md %}
 [science-progress-card]: {% link equipment/science-progress-card.md %}
 [trade-progress-card]: {% link equipment/trade-progress-card.md %}

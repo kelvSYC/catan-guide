@@ -12,16 +12,16 @@ All of the mechanics introduced in _Cities & Knights_ work together, with few co
 ## Parts List
 _Cities & Knights_ includes the following:
 - Player Pieces
-  - Knights
+  - [Knights][knight-ck]
     - English 6th edition, 2nd-4th international edition:
-      - 2 Basic Knights per player
-      - 2 Strong Knights per player
-      - 2 Mighty Knights per player
+      - 2 [Basic Knights][basic-knight] per player
+      - 2 [Strong Knights][strong-knight] per player
+      - 2 [Mighty Knights][mighty-knight] per player
       - 6 helmets per player (international sets only)
       - 6 activation flags per player (Viking wood sets only)
     - English 3rd-5th edition, 1st international edition:
-      - 6 Knight discs
-      - 1 set of 6 stickers per player, to be applied to the Knight discs
+      - 6 [Knight][knight-ck] discs
+      - 1 set of 6 stickers per player, to be applied to the [Knight][knight-ck] discs
   - 3 city walls per player
   - 1 set of 3 stickers per player, to be applied to the city walls (1st international edition only)
   - 3 metropolis towers per player (2nd-4th international editions only)
@@ -60,22 +60,22 @@ _Cities & Knights_ includes the following:
   - 1 [Trade card deck]({% link equipment/trade-progress-card.md %}) (18 cards)
   - 1 [Politics card deck]({% link equipment/politics-progress-card.md %}) (18 cards)
   - 1 [Science card deck]({% link equipment/science-progress-card.md %}) (18 cards)
-- 6 Defender of Catan cards (English 3rd-5th edition, 1st-3rd international editions)
-- 6 Catan chits (English 6th edition, 4th international edition)
+- 6 [Defender of Catan cards][defender-of-catan-card] (English 3rd-5th edition, 1st-3rd international editions)
+- 6 Victory Point markers (English 6th edition, 4th international edition)
 - 1 set of 2 card trays (English 6th edition, all international editions)
 
 The _Cities & Knights_ extension includes the following:
 - Player Pieces
-  - Knights
+  - [Knights][knight-ck]
     - English 6th edition, 2nd-4th international edition:
-      - 2 Basic Knights per player
-      - 2 Strong Knights per player
-      - 2 Mighty Knights per player
+      - 2 [Basic Knights][basic-knight] per player
+      - 2 [Strong Knights][strong-knight] per player
+      - 2 [Mighty Knights][mighty-knight] per player
       - 6 helmets per player (international sets only)
       - 6 activation flags per player (Viking wood sets only)
     - English 3rd-5th edition, 1st international edition:
-      - 6 Knight discs
-      - 1 set of 6 stickers per player, to be applied to the Knight discs
+      - 6 [Knight][knight-ck] discs
+      - 1 set of 6 stickers per player, to be applied to the [Knight][knight-ck] discs
   - 3 city walls per player
   - 1 set of 3 stickers per player, to be applied to the city walls (1st international edition only)
   - 3 metropolis towers per player (2nd-4th international editions only)
@@ -100,8 +100,8 @@ The _Cities & Knights_ extension includes the following:
   - 6 Cloth
   - 6 Coin
   - 6 Paper
-- 2 Defender of Catan cards (English 3rd-5th editions, 1st-3rd international editions)
-- 2 Catan chits (English 6th edition, 4th international edition)
+- 2 [Defender of Catan cards][defender-of-catan-card] (English 3rd-5th editions, 1st-3rd international editions)
+- 2 Victory Point Markers (English 6th edition, 4th international edition)
 - 1 set of 2 Paired Player Markers (English 6th edition, 4th International edition only), with figure stands
 
 **Notes**:
@@ -111,3 +111,6 @@ The _Cities & Knights_ extension includes the following:
 - Although the base game has included a red die since the English 4th edition (2nd international edition) for the purposes of not needing one packaged with _Cities & Knights_, international sets still include a red die for compatibility purposes, in case the base game does not include one.
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
+
+[defender-of-catan-card]: {% link equipment/defender-of-catan-card %}
+[knight-ck]: {% link game-concepts/knight-ck.md %}

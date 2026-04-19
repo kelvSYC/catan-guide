@@ -12,6 +12,13 @@ groups:
       - title: Defender of Catan Card
         link: equipment/defender-of-catan-card.html
       - title: Knight
+        subitems:
+          - title: Basic
+            link: equipment/basic-knight.html
+          - title: Strong
+            link: equipment/strong-knight.html
+          - title: Mighty
+            link: equipment/mighty-knight.html
       - title: Merchant
         link: equipment/merchant.md
       - title: Progress Card
@@ -22,13 +29,15 @@ groups:
             link: equipment/science-progress-card.html
           - title: Trade
             link: equipment/trade-progress-card.html
+      - title: Victory Point Marker
   - label: Game Concepts
     items:
       - title: Activation
       - title: Barbarian Attack
       - title: City Improvement
       - title: Commodity
-      - title: Defender of Catan
+      - title: Knight
+        link: game-concepts/knight-ck.html
       - title: Metropolis
       - title: Paired Player Turn
       - title: Promotion

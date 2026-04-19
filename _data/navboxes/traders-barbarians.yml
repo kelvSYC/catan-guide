@@ -35,6 +35,7 @@ groups:
       - title: Gold Coin
       - title: Harbormaster
       - title: Knight
+        link: game-concepts/knight-ba.html
       - title: Lake Hex
       - title: River
       - title: Strongest Ports
@@ -51,6 +52,8 @@ groups:
     items:
       - title: Baggage Train
       - title: Conquered Hex
+      - title: Knight
+        link: game-concepts/knight-ba.html
       - title: Neutral Player
       - title: Paired Player Turn
       - title: Old Boot

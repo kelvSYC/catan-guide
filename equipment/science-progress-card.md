@@ -40,7 +40,7 @@ Science Progress Cards are gained by a player whenever the science face is rolle
   - A player may not play this card if they have no roads in their supply, as it would be considered discarding a card for no effect.
   - With [_Seafarers_][seafarers], a player may substitute one or both of their roads for ships. All other normal building rules apply.
     - Note that this does not apply to [_Explorers and Pirates_][explorers-pirates], due to the different mechanics of ships therein.
-- **Smithing** This card may be used to promote up to two knights at no cost.
+- **Smithing**: This card may be used to promote up to two knights at no cost.
   - This card was known as **Smith** before the English 6th edition.
   - Strong knights may only be promoted if a player has a fortress.
   - Because a knight may only be promoted once per turn, this card cannot be used to promote a single basic knight twice to a mighty knight.
