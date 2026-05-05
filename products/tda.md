@@ -34,14 +34,14 @@ As with other sets, do note that English sets always display ocean on the revers
 - Player Pieces
   - 4 cities per player
 - Number tokens
-  - 1 - 3
-  - 2 - 4
-  - 2 - 5
-  - 1 - 6
-  - 1 - 8
-  - 2 - 9
-  - 2 - 10
-  - 1 - 11
+  - 1 - {% include number-token.html n=3 %}
+  - 2 - {% include number-token.html n=4 %}
+  - 2 - {% include number-token.html n=5 %}
+  - 1 - {% include number-token.html n=6 %}
+  - 1 - {% include number-token.html n=8 %}
+  - 2 - {% include number-token.html n=9 %}
+  - 2 - {% include number-token.html n=10 %}
+  - 1 - {% include number-token.html n=11 %}
 - Frame pieces
   - 2 2-hex frame extensions
 - Scenario Specific Components

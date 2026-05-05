@@ -26,7 +26,7 @@ Unlike the expansions before it, there is no specific compatibility between the 
 _Traders & Barbarians_ includes the following:
 - Hexes
   - "Fishing on Catan"
-    - 1 Lake hex with preprinted 2, 3, 11, and 12 number tokens
+    - 1 Lake hex with preprinted {% include number-token.html n=2 %}{% include number-token.html n=3 %}{% include number-token.html n=11 %}{% include number-token.html n=12 %}
   - "Rivers of Catan"
     - 1 Mountains/Hills/Swampland triple hex river piece
     - 1 Mountains/Hills/Pasture/Swampland quadruple hex river piece. English sets prior to the 6th edition split this into two two-hex pieces
@@ -71,12 +71,12 @@ _Traders & Barbarians_ includes the following:
 - Scenario Specific Equipment
   - "Fishing on Catan"
     - 6 Fishing Grounds
-      - 1 with preprinted 4 number token
-      - 1 with preprinted 5 number token
-      - 1 with preprinted 6 number token
-      - 1 with preprinted 8 number token
-      - 1 with preprinted 9 number token
-      - 1 with preprinted 10 number token
+      - 1 with preprinted {% include number-token.html n=4 %}
+      - 1 with preprinted {% include number-token.html n=5 %}
+      - 1 with preprinted {% include number-token.html n=6 %}
+      - 1 with preprinted {% include number-token.html n=8 %}
+      - 1 with preprinted {% include number-token.html n=9 %}
+      - 1 with preprinted {% include number-token.html n=10 %}
     - 30 Fish tokens
       - 11 - 1 Fish
       - 10 - 2 Fish
@@ -106,7 +106,7 @@ The _Traders & Barbarians_ extension includes the following:
 
 - Hexes
   - "Fishing on Catan"
-    - 1 Lake hex with preprinted 4 and 10 number tokens
+    - 1 Lake hex with preprinted {% include number-token.html n=4 %}{% include number-token.html n=10 %}
   - "Rivers of Catan"
     - 1 Mountains/Pasture/Pasture triple hex piece. English sets prior to the 6th edition split this into a single mountain hex and a pasture/pasture double hex
   - "Merchant Trains"
@@ -147,8 +147,8 @@ The _Traders & Barbarians_ extension includes the following:
 - Scenario Specific Equipment
   - "Fishing on Catan"
     - 2 fishing grounds
-      - 1 with preprinted 5 number token
-      - 1 with preprinted 9 number token
+      - 1 with preprinted {% include number-token.html n=5 %}
+      - 1 with preprinted {% include number-token.html n=9 %}
     - 14 Fish Tokens
       - 4 - 1 Fish
       - 5 - 2 Fish

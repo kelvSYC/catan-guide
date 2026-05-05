@@ -51,17 +51,17 @@ Although the product was never released in English, the German product was avail
   - 1 Citadel
   - 1 Spinner with spinner arrow
 - Number tokens
-  - 2 - 2
-  - 1 - 3
-  - 1 - 4
-  - 1 - 5
-  - 2 - 6
-  - 2 - 8
-  - 1 - 9
-  - 1 - 10
-  - 1 - 11
-  - 2 - 12
-  - 1 - Magic 7
+  - 2 - {% include number-token.html n=2 %}
+  - 1 - {% include number-token.html n=3 %}
+  - 1 - {% include number-token.html n=4 %}
+  - 1 - {% include number-token.html n=5 %}
+  - 2 - {% include number-token.html n=6 %}
+  - 2 - {% include number-token.html n=8 %}
+  - 1 - {% include number-token.html n=9 %}
+  - 1 - {% include number-token.html n=10 %}
+  - 1 - {% include number-token.html n=11 %}
+  - 2 - {% include number-token.html n=12 %}
+  - 1 - {% include number-token.html n="magic-7" %}
 - Number tokens for "The Bermuda Triangle"
   - 1 - 2
   - 2 - 3

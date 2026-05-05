@@ -15,7 +15,7 @@ Although separate English and international editions were made, it is to be note
 - Hexes
   - 1 Field
 - Number Tokens
-  - 1 - 9 (English on one side, international on the other)
+  - 1 - {% include number-token.html n=9 %} (English on one side, international on the other)
 - 1 Seed Vault Display (English on one side, international on the other)
 - Crop tokens
   - 18 Beans

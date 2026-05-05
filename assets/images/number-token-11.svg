@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28.35 28.35">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: Helvetica, Helvetica;
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.17em;
+      }
+    </style>
+    <symbol id="Number_Token_11" data-name="Number Token 11" viewBox="0 0 28.35 28.35">
+      <g>
+        <g>
+          <path class="cls-3" d="M14.17,28.1C6.5,28.1.25,21.85.25,14.17S6.5.25,14.17.25s13.92,6.25,13.92,13.92-6.25,13.92-13.92,13.92Z"/>
+          <path class="cls-1" d="M14.17.5c7.54,0,13.67,6.13,13.67,13.67s-6.13,13.67-13.67,13.67S.5,21.71.5,14.17,6.63.5,14.17.5M14.17,0C6.35,0,0,6.35,0,14.17s6.35,14.17,14.17,14.17,14.17-6.35,14.17-14.17S22,0,14.17,0h0Z"/>
+        </g>
+        <text class="cls-2" transform="translate(8.54 16.15)"><tspan class="cls-5" x="0" y="0">1</tspan><tspan class="cls-4" x="4.59" y="0">1</tspan></text>
+        <circle class="cls-1" cx="12.76" cy="22.15" r="1.06"/>
+        <circle class="cls-1" cx="15.59" cy="22.15" r="1.06"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <use width="28.35" height="28.35" transform="translate(0 0)" xlink:href="#Number_Token_11"/>
+  </g>
+</svg>

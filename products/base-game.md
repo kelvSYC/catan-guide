@@ -50,16 +50,16 @@ The base game includes the following parts:
 - Miscellaneous Player Assets
   - 1 Building Cost Card per player
 - Number Tokens
-  - 1 - 2 (`B`)
-  - 2 - 3 (`D`, `Q`)
-  - 2 - 4 (`J`, `N`)
-  - 2 - 5 (`A`, `O`)
-  - 2 - 6 (`C`, `P`)
-  - 2 - 8 (`E`, `K`)
-  - 2 - 9 (`G`, `M`)
-  - 2 - 10 (`F`, `L`)
-  - 2 - 11 (`I`, `R`)
-  - 2 - 12 (`H`)
+  - 1 - {% include number-token.html n=2 %} (`B`)
+  - 2 - {% include number-token.html n=3 %} (`D`, `Q`)
+  - 2 - {% include number-token.html n=4 %} (`J`, `N`)
+  - 2 - {% include number-token.html n=5 %} (`A`, `O`)
+  - 2 - {% include number-token.html n=6 %} (`C`, `P`)
+  - 2 - {% include number-token.html n=8 %} (`E`, `K`)
+  - 2 - {% include number-token.html n=9 %} (`G`, `M`)
+  - 2 - {% include number-token.html n=10 %} (`F`, `L`)
+  - 2 - {% include number-token.html n=11 %} (`I`, `R`)
+  - 2 - {% include number-token.html n=12 %} (`H`)
 - Dice
   - 1 yellow die (English 4th-6th editions, 2nd-4th international editions)
   - 1 red die (English 4th-6th editions, 2nd-4th international editions)
@@ -98,16 +98,16 @@ The base game extension includes the following:
 - Miscellaneous Player Assets
   - 1 Building Cost Card per player
 - Number Tokens
-  - 2 - 2 (`A`, `Zb`)
-  - 3 - 3 (`E`, `L`, `Za`)
-  - 3 - 4 (`C`, `N`, `U`)
-  - 3 - 5 (`B`, `T`, `W`)
-  - 3 - 6 (`D`, `K`, `Zc`)
-  - 3 - 8 (`G`, `M`, `U`)
-  - 3 - 9 (`F`, `V`, `X`)
-  - 3 - 10 (`J`, `P`, `S`)
-  - 3 - 11 (`I`, `Q`, `H`)
-  - 3 - 12 (`R`, `Y`)
+  - 2 - {% include number-token.html n=2 %} (`A`, `Zb`)
+  - 3 - {% include number-token.html n=3 %} (`E`, `L`, `Za`)
+  - 3 - {% include number-token.html n=4 %} (`C`, `N`, `U`)
+  - 3 - {% include number-token.html n=5 %} (`B`, `T`, `W`)
+  - 3 - {% include number-token.html n=6 %} (`D`, `K`, `Zc`)
+  - 3 - {% include number-token.html n=8 %} (`G`, `M`, `U`)
+  - 3 - {% include number-token.html n=9 %} (`F`, `V`, `X`)
+  - 3 - {% include number-token.html n=10 %} (`J`, `P`, `S`)
+  - 3 - {% include number-token.html n=11 %} (`I`, `Q`, `H`)
+  - 3 - {% include number-token.html n=12 %} (`R`, `Y`)
 - Resource Cards
   - 5 Brick
   - 5 Grain

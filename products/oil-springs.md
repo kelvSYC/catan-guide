@@ -12,8 +12,8 @@ The graphics of this expansion is designed to be seamless with the English 4th e
 ## Parts List
 - 1 Forest Oil Spring overlay
 - 1 Pasture Oil Spring overlay
-- 1 Desert Oil Spring overlay with pre-printed 5 number token
-- 1 Desert Oil Spring overlay with pre-printed 9 number token
+- 1 Desert Oil Spring overlay with pre-printed {% include number-token.html n=5 %}
+- 1 Desert Oil Spring overlay with pre-printed {% include number-token.html n=9 %}
 - 7 Catan chits
 - 6 Metropolis tokens
 - 21 Oil tokens

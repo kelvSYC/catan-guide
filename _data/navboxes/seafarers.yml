@@ -27,6 +27,7 @@ groups:
   - label: Equipment
     items:
       - title: Beachhead Marker
+        link: equipment/beachhead-marker.html
       - title: Catan chit
         link: equipment/catan-chit.html
       - title: Cloth Token

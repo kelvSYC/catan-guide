@@ -58,23 +58,22 @@ _Seafarers_ includes the following:
 - Player Pieces
   - 15 ships per player
   - "The Pirate Islands"
-    - 1 Beachhead Marker per player (English 6th edition, 4th international edition)
+    - 1 [Beachhead Marker][beachhead-marker] per player (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
     - 1 [Wonder marker][wonder-marker] per player (English 6th edition, 4th international edition)
 - Miscellaneous Player Assets
   - 1 building cost card per player (English 6th edition, 4th international edition)
 - Number tokens
-  - 1 - 2
-  - 1 - 3
-  - 1 - 4
-  - 1 - 5
-  - 1 - 6
-  - 1 - 7
-  - 1 - 8
-  - 1 - 9
-  - 1 - 10
-  - 1 - 11
-  - 1 - 12
+  - 1 - {% include number-token.html n=2 %}
+  - 1 - {% include number-token.html n=3 %}
+  - 1 - {% include number-token.html n=4 %}
+  - 1 - {% include number-token.html n=5 %}
+  - 1 - {% include number-token.html n=6 %}
+  - 1 - {% include number-token.html n=8 %}
+  - 1 - {% include number-token.html n=9 %}
+  - 1 - {% include number-token.html n=10 %}
+  - 1 - {% include number-token.html n=11 %}
+  - 1 - {% include number-token.html n=12 %}
 - Harbor Pieces
   - 1 Brick 2:1 Harbor
   - 1 Grain 2:1 Harbor
@@ -107,7 +106,7 @@ The _Seafarers_ extension includes the following:
 - Player Pieces
   - 15 ships per player
   - "The Pirate Islands"
-    - 1 Beachhead Marker per player (English 6th edition, 4th international edition)
+    - 1 [Beachhead Marker][beachhead-marker] per player (English 6th edition, 4th international edition)
   - "The Wonders of Catan"
     - 1 [Wonder marker][wonder-marker] per player (English 6th edition, 4th international edition)
 - Frame Pieces
@@ -138,5 +137,6 @@ The _Seafarers_ extension includes the following:
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
 
+[beachhead-marker]: {% link equipment/beachhead-marker.md %}
 [wonder-marker]: {% link equipment/wonder-marker.md %}
 [wonder-tile]: {% link equipment/wonder-tile.md %}

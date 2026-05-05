@@ -11,13 +11,13 @@ Because this was released shortly after the conversion to plastic pieces with th
 
 ## Parts List
 - Hexes
-  - 1 Gold field with pre-printed 5 number token
+  - 1 Gold field with pre-printed {% include number-token.html n=5 %}
   - 4 Ocean
-  - 1 Jungle with pre-printed 4 number token
-  - 1 Jungle with pre-printed 9 number token
-  - 1 Jungle with pre-printed 10 number token
-  - 1 Volcano with pre-printed 3 number token
-  - 1 Volcano with pre-printed 6 number token
+  - 1 Jungle with pre-printed {% include number-token.html n=4 %}
+  - 1 Jungle with pre-printed {% include number-token.html n=9 %}
+  - 1 Jungle with pre-printed {% include number-token.html n=10 %}
+  - 1 Volcano with pre-printed {% include number-token.html n=3 %}
+  - 1 Volcano with pre-printed {% include number-token.html n=6 %}
 - Player pieces
   - 5 outposts per player
   - 4 warships per player

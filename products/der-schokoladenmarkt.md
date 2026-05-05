@@ -9,11 +9,11 @@ title: Der Schokoladenmarkt
 
 ## Parts List
 - Hexes
-  - 1 Rainforest hex with pre-printed 3 number token
-  - 1 Rainforest hex with pre-printed 4 number token
-  - 1 Rainforest hex with pre-printed 5 number token
-  - 1 Rainforest hex with pre-printed 9 number token
-  - 1 Rainforest hex with pre-printed 10 number token
+  - 1 Rainforest hex with pre-printed {% include number-token.html n=3 %}
+  - 1 Rainforest hex with pre-printed {% include number-token.html n=4 %}
+  - 1 Rainforest hex with pre-printed {% include number-token.html n=5 %}
+  - 1 Rainforest hex with pre-printed {% include number-token.html n=9 %}
+  - 1 Rainforest hex with pre-printed {% include number-token.html n=10 %}
 - Frame Pieces
   - 2 one-hex extensions
 - Production Sites

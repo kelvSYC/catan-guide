@@ -48,8 +48,8 @@ Players with older editions of [_Seafarers_]({% link products/seafarers.md %}) (
   - 1 1-hex frame extension
   - 1 2-hex frame extension
 - Number tokens
-  - 1 - 5
-  - 1 - 6
+  - 1 - {% include number-token.html n=5 %}
+  - 1 - {% include number-token.html n=6 %}
 - General equipment
   - 4 starting settlement tokens
   - 16 chest tokens

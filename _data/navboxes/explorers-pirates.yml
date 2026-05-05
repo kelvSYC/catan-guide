@@ -27,6 +27,7 @@ groups:
       - title: Pirate
       - title: Pirate Lair
       - title: Settler Ship
+        link: game-concepts/settler-ship.html
       - title: Special Build Phase
         link: game-concepts/special-build-phase.html
       - title: Transshipment

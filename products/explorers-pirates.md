@@ -44,26 +44,26 @@ The _Explorers & Pirates_ expansion includes the following:
     - 1 Council of Catan
 - Number Tokens
   - Parrot (Green Moon) Unexplored Area:
-    - 1 - 3
-    - 1 - 4
-    - 1 - 5
-    - 1 - 6
-    - 1 - 9
-    - 1 - 10
+    - 1 - {% include number-token.html n=3 %}
+    - 1 - {% include number-token.html n=4 %}
+    - 1 - {% include number-token.html n=5 %}
+    - 1 - {% include number-token.html n=6 %}
+    - 1 - {% include number-token.html n=9 %}
+    - 1 - {% include number-token.html n=10 %}
   - Goose (Orange Sun) Unexplored Area:
-    - 1 - 4
-    - 1 - 5
-    - 1 - 8
-    - 1 - 9
-    - 1 - 10
-    - 1 - 11
+    - 1 - {% include number-token.html n=4 %}
+    - 1 - {% include number-token.html n=5 %}
+    - 1 - {% include number-token.html n=8 %}
+    - 1 - {% include number-token.html n=9 %}
+    - 1 - {% include number-token.html n=10 %}
+    - 1 - {% include number-token.html n=11 %}
   - Pirate Lairs
-    - 1 - 2
-    - 1 - 3
-    - 1 - 5
-    - 1 - 6
-    - 1 - 8
-    - 1 - 11
+    - 1 - {% include number-token.html n=2 %}
+    - 1 - {% include number-token.html n=3 %}
+    - 1 - {% include number-token.html n=5 %}
+    - 1 - {% include number-token.html n=6 %}
+    - 1 - {% include number-token.html n=8 %}
+    - 1 - {% include number-token.html n=11 %}
 - Player Pieces
   - 4 Harbor Settlements per player
   - 3 Ships per player
@@ -123,16 +123,16 @@ The _Explorers & Pirates_ extension includes the following:
   - 9 Ocean (English 6th edition only)
 - Number Tokens
   - Parrot (Green Moon) Unexplored Area:
-    - 1 - 2
-    - 1 - 5
-    - 1 - 9
+    - 1 - {% include number-token.html n=2 %}
+    - 1 - {% include number-token.html n=5 %}
+    - 1 - {% include number-token.html n=9 %}
   - Goose (Orange Sun) Unexplored Area:
-    - 1 - 3
-    - 1 - 4
-    - 1 - 10
+    - 1 - {% include number-token.html n=3 %}
+    - 1 - {% include number-token.html n=4 %}
+    - 1 - {% include number-token.html n=10 %}
   - Pirate Lairs
-    - 1 - 9
-    - 1 - 10
+    - 1 - {% include number-token.html n=9 %}
+    - 1 - {% include number-token.html n=10 %}
 - Frame Pieces
   - Central interlocking piece (`D3`). English sets depict Ocean on one side and Council of Catan on the other, international sets only have the side with the Council of Catan.
   - 4 Ocean hexes (`EE`)

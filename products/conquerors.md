@@ -29,16 +29,16 @@ As with other sets, do note that English sets always display ocean on the revers
 - 16 [Forts]({% link equipment/fort.md %})
 - 1 sticker sheet, to be affixed to [Conquerors]({% link equipment/conqueror.md %}) and [Forts]({% link equipment/fort.md %})
 - Number tokens
-  - 2 - 2
-  - 1 - 3
-  - 2 - 4
-  - 2 - 5
-  - 1 - 6
-  - 1 - 8
-  - 1 - 9
-  - 2 - 10
-  - 1 - 11
-  - 2 - 12
+  - 2 - {% include number-token.html n=2 %}
+  - 1 - {% include number-token.html n=3 %}
+  - 2 - {% include number-token.html n=4 %}
+  - 2 - {% include number-token.html n=5 %}
+  - 1 - {% include number-token.html n=6 %}
+  - 1 - {% include number-token.html n=8 %}
+  - 1 - {% include number-token.html n=9 %}
+  - 2 - {% include number-token.html n=10 %}
+  - 1 - {% include number-token.html n=11 %}
+  - 2 - {% include number-token.html n=12 %}
 - Player Pieces
   - 1 [Cannon]({% link equipment/cannon.md %}) per player
   - 1 [Cavalry]({% link equipment/cavalry.md %}) per player

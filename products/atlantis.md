@@ -23,7 +23,7 @@ title: Atlantis
   - 1 Volcano with pre-printed 5 number token / River mountain
   - 1 Citadel / River hill
 - Number Tokens
-  - 1 Magic 7
+  - 1 {% include number-token.html n="magic-7" %}
 - 1 Event Card deck (37 cards)
 - 1 Harbormaster scoring bonus
 - 5 Specialist card scoring bonuses
