@@ -16,24 +16,7 @@ This scenario provides a sharp contrast to [Resist!][resist] before it: whereas 
 
 Players should be familiar with the following equipment and game concepts before playing this scenario:
 
-**Equipment**:
-- [Amber token][amber-token]
-- [Battle Progress Card][battle-progress-card]
-- [Cannon][cannon]
-- [Cavalry][cavalry]
-- [Chapter board][chapter-board]
-- [Conqueror][conqueror]
-- [Direction Tile and Direction Die][direction-tile]
-- [Landing Marker][landing-marker]
-- [Politics Progress Card][politics-progress-card]
-- [Science Progress Card][science-progress-card]
-- [Trade Progress Card][trade-progress-card]
-- [Wine token][wine-token]
-
-**Game Concepts**
-- [Event][event-conquerors]
-- [Knight Upgrade][knight-upgrade]
-- [Legend Point][legend-point]
+{% include equipment-overview.html scenario="stop-the-conquerors" %}
 
 ## Scenario Rules
 In addition to all rules from [Resist!][resist], the following rules are in effect:
@@ -59,23 +42,11 @@ When playing the campaign, players who were defeated must re-attempt the scenari
 
 {% include navbox-conquerors.html %}
 
-[amber-token]: {% link equipment/amber-token.md %}
 [battle-progress-card]: {% link equipment/battle-progress-card.md %}
-[cannon]: {% link equipment/cannon.md %}
-[cavalry]: {% link equipment/cavalry.md %}
-[chapter-board]: {% link equipment/chapter-board.md %}
 [cities-knights]: {% link products/cities-knights.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
-[direction-tile]: {% link equipment/direction-tile.md %}
-[event-conquerors]: {% link game-concepts/event-conquerors.md %}
 [free-all-of-catan]: {% link scenarios/free-all-of-catan.md %}
 [hero-track]: {% link game-concepts/hero-track.md %}
-[knight-upgrade]: {% link game-concepts/knight-upgrade.md %}
-[landing-marker]: {% link equipment/landing-marker.md %}
 [legend-point]: {% link game-concepts/legend-point.md %}
-[politics-progress-card]: {% link equipment/politics-progress-card.md %}
 [resist]: {% link scenarios/resist.md %}
-[science-progress-card]: {% link equipment/science-progress-card.md %}
-[trade-progress-card]: {% link equipment/trade-progress-card.md %}
-[wine-token]: {% link equipment/wine-token.md %}

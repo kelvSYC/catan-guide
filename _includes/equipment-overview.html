@@ -1,0 +1,26 @@
+{%- assign data = site.data.scenarios[include.scenario] -%}
+{%- assign theme = include.theme | default: page.layout -%}
+{%- assign colors = site.data.colors[theme] -%}
+<div class="equipment-overview"
+  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; margin: 1rem 0;">
+  {%- if data.equipment -%}
+  <section>
+    <h3 style="margin-top: 0; border-bottom: 2px solid {{ colors.accent }}; padding-bottom: 0.25rem;">Equipment</h3>
+    <ul>
+      {%- for item in data.equipment %}
+      <li><a href="{{ item.link | relative_url }}">{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif -%}
+  {%- if data.game_concepts -%}
+  <section>
+    <h3 style="margin-top: 0; border-bottom: 2px solid {{ colors.accent }}; padding-bottom: 0.25rem;">Game Concepts</h3>
+    <ul>
+      {%- for item in data.game_concepts %}
+      <li><a href="{{ item.link | relative_url }}">{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif -%}
+</div>

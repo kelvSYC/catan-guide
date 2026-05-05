@@ -16,22 +16,7 @@ Ultimately, the Catanians, aided by a prolonged drought, were successful in dest
 ## Equipment Overview
 Players should be familiar with the following equipment and game concepts before playing this scenario:
 
-**Equipment**:
-- [Amber token][amber-token]
-- [Battle Progress Card][battle-progress-card]
-- [Cannon][cannon]
-- [Cavalry][cavalry]
-- [Chapter board][chapter-board]
-- [Fort][fort]
-- [Politics Progress Card][politics-progress-card]
-- [Science Progress Card][science-progress-card]
-- [Trade Progress Card][trade-progress-card]
-- [Wine token][wine-token]
-
-**Game Concepts**
-- [Event][event-conquerors]
-- [Knight Upgrade][knight-upgrade]
-- [Legend Point][legend-point]
+{% include equipment-overview.html scenario="free-all-of-catan" %}
 
 ### Roadblock Markers
 Roadblock markers are markers that contain a picture of a road with a crossed out marker on top of it. These pieces are irregularly shaped in both English and international sets, despite the differences in the road pieces used therein; the shape of the marker is meant to accommodate the irregular shape of road pieces from international sets.
@@ -69,22 +54,13 @@ When playing the campaign, players who were defeated must re-attempt the scenari
 
 {% include navbox-conquerors.html %}
 
-[amber-token]: {% link equipment/amber-token.md %}
 [basic-knight]: {% link equipment/basic-knight.md %}
 [battle-progress-card]: {% link equipment/battle-progress-card.md %}
-[cannon]: {% link equipment/cannon.md %}
-[cavalry]: {% link equipment/cavalry.md %}
-[chapter-board]: {% link equipment/chapter-board.md %}
 [cities-knights]: {% link products/cities-knights.md %}
 [conquerors]: {% link products/conquerors.md %}
-[event-conquerors]: {% link game-concepts/event-conquerors.md %}
 [fort]: {% link equipment/fort.md %}
 [hero-track]: {% link game-concepts/hero-track.md %}
-[knight-upgrade]: {% link game-concepts/knight-upgrade.md %}
 [legend-point]: {% link game-concepts/legend-point.md %}
 [mighty-knight]: {% link equipment/mighty-knight.md %}
 [strong-knight]: {% link equipment/strong-knight.md %}
 [politics-progress-card]: {% link equipment/politics-progress-card.md %}
-[science-progress-card]: {% link equipment/science-progress-card.md %}
-[trade-progress-card]: {% link equipment/trade-progress-card.md %}
-[wine-token]: {% link equipment/wine-token.md %}

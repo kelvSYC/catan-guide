@@ -12,18 +12,7 @@ In the 100 years since the establishment of relations with old world kingdoms, C
 ## Equipment Overview
 Players should be familiar with the following equipment and game concepts before playing this scenario:
 
-**Equipment**:
-- [Chapter board][chapter-board]
-- [Conqueror][conqueror]
-- [Direction Tile and Direction Die][direction-tile]
-- [Landing Marker][landing-marker]
-- [Politics Progress Card][politics-progress-card]
-- [Science Progress Card][science-progress-card]
-- [Trade Progress Card][trade-progress-card]
-
-**Game Concepts**
-- [Event][event-conquerors]
-- [Legend Point][legend-point]
+{% include equipment-overview.html scenario="resist" %}
 
 ## Scenario Rules
 - The Robber is absent in this scenario. Resources are not stolen on a production roll of 7, but the hand limit remains in place.
@@ -64,19 +53,13 @@ When playing the campaign, players who are defeated must re-attempt the scenario
 {% include navbox-conquerors.html %}
 
 [basic-knight]: {% link equipment/basic-knight.md %}
-[chapter-board]: {% link equipment/chapter-board.md %}
 [cities-knights]: {% link products/cities-knights.md %}
 [conqueror]: {% link equipment/conqueror.md %}
 [conquerors]: {% link products/conquerors.md %}
-[direction-tile]: {% link equipment/direction-tile.md %}
-[event-conquerors]: {% link game-concepts/event-conquerors.md %}
 [hero-track]: {% link game-concepts/hero-track.md %}
-[landing-marker]: {% link equipment/landing-marker.md %}
 [legend-point]: {% link game-concepts/legend-point.md %}
 [mighty-knight]: {% link equipment/mighty-knight.md %}
 [strong-knight]: {% link equipment/strong-knight.md %}
 [politics-progress-card]: {% link equipment/politics-progress-card.md %}
-[science-progress-card]: {% link equipment/science-progress-card.md %}
 [sea-robbers]: {% link products/sea-robbers.md %}
 [stop-the-conquerors]: {% link scenarios/stop-the-conquerors.md %}
-[trade-progress-card]: {% link equipment/trade-progress-card.md %}

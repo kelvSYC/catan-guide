@@ -1,0 +1,36 @@
+equipment:
+  - title: Amber token
+    link: equipment/amber-token.html
+  - title: Battle Progress Card
+    link: equipment/battle-progress-card.html
+  - title: Cannon
+    link: equipment/cannon.html
+  - title: Cavalry
+    link: equipment/cavalry.html
+  - title: Chapter board
+    link: equipment/chapter-board.html
+  - title: Conqueror
+    link: equipment/conqueror.html
+  - title: Direction Tile and Direction Die
+    link: equipment/direction-tile.html
+  - title: Landing Marker
+    link: equipment/landing-marker.html
+  - title: Politics Progress Card
+    link: equipment/politics-progress-card.html
+  - title: Science Progress Card
+    link: equipment/science-progress-card.html
+  - title: Trade Progress Card
+    link: equipment/trade-progress-card.html
+  - title: Wine token
+    link: equipment/wine-token.html
+
+game_concepts:
+  - title: Event
+    link: game-concepts/event-conquerors.html
+  - title: Knight Upgrade
+    link: game-concepts/knight-upgrade.html
+  - title: Legend Point
+    link: game-concepts/legend-point.html
+
+# Reserved for future use:
+# setups:
