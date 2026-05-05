@@ -64,9 +64,9 @@ _Traders & Barbarians_ includes the following:
   - "Barbarian Attack"
     - 1 reference card per player (English 6th edition only)
   - "Traders & Barbarians"
-    - 1 Wagon Board per player (English 6th edition and 4th international edition only)
+    - 1 [Wagon Board][wagon-board] per player (English 6th edition and 4th international edition only)
     - 1 Marker Cube per player (English 6th edition and 4th international edition only)
-    - 5 Baggage Train cards per player (English 4th-5th editions and 2nd-3rd international editions)
+    - 5 [Baggage Train cards][baggage-train] per player (English 4th-5th editions and 2nd-3rd international editions)
     - 1 reference card per player (English 6th edition only)
 - Scenario Specific Equipment
   - "Fishing on Catan"
@@ -140,9 +140,9 @@ The _Traders & Barbarians_ extension includes the following:
   - "Barbarian Attack"
     - 1 reference card per player (English 6th edition only)
   - "Traders & Barbarians"
-    - 1 Wagon Board per player (English 6th edition and 4th international edition only)
+    - 1 [Wagon Board][wagon-board] per player (English 6th edition and 4th international edition only)
     - 1 Marker Cube per player (English 6th edition and 4th international edition only)
-    - 5 Baggage Train cards per player (English 4th-5th editions and 2nd-3rd international editions)
+    - 5 [Baggage Train cards][baggage-train] per player (English 4th-5th editions and 2nd-3rd international editions)
     - 1 reference card per player (English 6th edition only)
 - Scenario Specific Equipment
   - "Fishing on Catan"
@@ -170,6 +170,8 @@ The _Traders & Barbarians_ extension includes the following:
 - Some select English 5th edition and 3rd international edition sets will use the Paired Player Turn rule, and thus include the Paired Player markers
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
 
+[baggage-train]: {% link equipment/baggage-train.md %}
 [development-card-ba]: {% link equipment/development-card-ba.md %}
 [development-card-tb]: {% link equipment/development-card-tb.md %}
 [knight-ba]: {% link equipment/knight-ba.md %}
+[wagon-board]: {% link equipment/wagon-board.md %}

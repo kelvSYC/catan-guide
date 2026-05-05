@@ -20,6 +20,8 @@ groups:
       - title: Catan for Two
   - label: Equipment
     items:
+      - title: Baggage Train
+        link: equipment/baggage-train.html
       - title: Barbarian
       - title: Bridge
       - title: Camel
@@ -52,11 +54,12 @@ groups:
       - title: Trade Token
       - title: Trade Wagon
       - title: Wagon
+      - title: Wagon Board
+        link: equipment/wagon-board.html
       - title: Watering Hole Hex
       - title: "\"X\" Marker"
   - label: Game Concepts
     items:
-      - title: Baggage Train
       - title: Bridge Site
         link: game-concepts/bridge-site.html
       - title: Conquered Hex
