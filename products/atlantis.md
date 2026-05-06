@@ -24,7 +24,7 @@ title: Atlantis
   - 1 Citadel / River hill
 - Number Tokens
   - 1 {% include number-token.html n="magic-7" %}
-- 1 Event Card deck (37 cards)
+- 1 [Event Card deck][event-cards] (37 cards)
 - 1 Harbormaster scoring bonus
 - 5 Specialist card scoring bonuses
 - 7 [City Wall pieces][city-walls]
@@ -33,3 +33,4 @@ title: Atlantis
 - 30 Gold tokens / Storm flood markers
 
 [city-walls]: {% link equipment/city-walls.md %}
+[event-cards]: {% link equipment/event-cards.md %}

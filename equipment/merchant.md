@@ -19,12 +19,11 @@ For the English 6th edition, the merchant is instead a gray wagon piece, the pie
 - The robber and merchant act independently of each other. Specifically, the robber and the merchant may occupy the same hex, and the presence of the robber does not prevent the player controlling the merchant from using the 2:1 trade rate.
 - Control of the merchant is worth 1 victory point.
 
-{% capture seafarers_rules %}
-The following additional rules are in effect when playing with [_Seafarers_]({% link products/seafarers.md %}):
+{% include expansion-box-open.html layout="seafarers" %}
+The following additional rules are in effect when playing with [_Seafarers_][seafarers]:
 
 - The merchant may not be deployed on a gold field hex.
-{% endcapture %}
-{% include expansion-box.html layout="seafarers" content=seafarers_rules %}
+{% include expansion-box-close.html %}
 
 {% include navbox-cities-knights.html %}
 

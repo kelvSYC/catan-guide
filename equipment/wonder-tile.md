@@ -26,15 +26,15 @@ Each wonder must be built in four stages, and a marker is used by players to mar
 ## Manifest
 As originally released, and subsequently integrated into [_Seafarers_][seafarers], 5 wonders are originally available, with the [_Seafarers_][seafarers] extension adding two more:
 
-| Name | Requirements | Stage Cost
-|-
-| Grand Castle | 1 City and at least 6 Victory Points | 1 brick, 1 lumber, 3 ore
-| Grand Monument | 1 City at a harbor, and a route of length at least 5 | 3 grain, 2 ore
-| Grand Theater | 2 Cities | 1 brick, 1 lumber, 3 wool
-| Great Bridge | A settlement on a Great Bridge marker | 1 grain, 3 lumber, 1 wool
-| Great Wall | A settlement on a Great Wall marker | 3 brick, 1 grain, 1 lumber
-| Great Library | 2 Cities | 1 brick, 1 lumber, 3 wool
-| Lighthouse | A settlement on a Lighthouse marker | 1 grain, 3 lumber, 1 wool
+| Name           | Requirements                                         | Stage Cost                 |
+|----------------|------------------------------------------------------|----------------------------|
+| Grand Castle   | 1 City and at least 6 Victory Points                 | 1 brick, 1 lumber, 3 ore   |
+| Grand Monument | 1 City at a harbor, and a route of length at least 5 | 3 grain, 2 ore             |
+| Grand Theater  | 2 Cities                                             | 1 brick, 1 lumber, 3 wool  |
+| Great Bridge   | A settlement on a Great Bridge marker                | 1 grain, 3 lumber, 1 wool  |
+| Great Wall     | A settlement on a Great Wall marker                  | 3 brick, 1 grain, 1 lumber |
+| Great Library  | 2 Cities                                             | 1 brick, 1 lumber, 3 wool  |
+| Lighthouse     | A settlement on a Lighthouse marker                  | 1 grain, 3 lumber, 1 wool  |
 
 - The Grand Monument was named the **Colossus** in the original release, and the **Monument** in the English 4th and 5th editions.
 - The Grand Theater was named the **Theater** in the English 4th and 5th editions.

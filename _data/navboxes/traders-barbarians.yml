@@ -41,6 +41,8 @@ groups:
             link: equipment/development-card-ba.html
           - title: Traders & Barbarians
             link: equipment/development-card-tb.html
+      - title: Event Cards
+        link: equipment/event-cards.html
       - title: Fish Token
       - title: Fishing Ground
       - title: Gold Coin
@@ -63,6 +65,8 @@ groups:
       - title: Bridge Site
         link: game-concepts/bridge-site.html
       - title: Conquered Hex
+      - title: Damaged Road
+        link: game-concepts/damaged-road.html
       - title: Knight
         link: game-concepts/knight-ba.html
       - title: Neutral Player

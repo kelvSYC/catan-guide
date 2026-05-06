@@ -21,6 +21,7 @@ groups:
       - title: City Walls
         link: equipment/city-walls.html
       - title: Event Cards
+        link: equipment/event-cards.html
       - title: Jungle Hex
       - title: Magic 7 Number Disc
       - title: Specialist Card
@@ -29,4 +30,6 @@ groups:
       - title: Volcano Hex
   - label: Game Concepts
     items:
+      - title: Damaged Road
+        link: game-concepts/damaged-road.html
       - title: Magic 7

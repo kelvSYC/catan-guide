@@ -12,8 +12,8 @@ In the scenario "Barbarian Attack", **Knights** are a type of unit that are used
 - A player may pay to have any knight move two additional paths. Any number of knights may receive extra movement, but extra movement must be paid once for each knight.
 - In a 5-6 player game, knights are required to move the turn that they are placed, so as to not allow players to block their opponents from building knights.
 
-{% capture ck_rules %}
-The following additional rules are in effect when playing with [_Cities & Knights_]({% link products/cities-knights.md %}):
+{% include expansion-box-open.html layout="cities-knights" %}
+The following additional rules are in effect when playing with [_Cities & Knights_][cities-knights]:
 - Because they are treated as knights in accordance with the rules of "Barbarian Attack", and not according to "Cities & Knights", they do not impede roads for the purposes of Longest Route, nor are they restricted to moving along a player's own road network. (Conversely, they do not enjoy unlimited movement along a player's own road network, nor move outside of the movement phase).
 - Movement remains the same for all knights regardless of rank.
   - A deactivated knight may move up to three adjacent paths.
@@ -26,18 +26,16 @@ The following additional rules are in effect when playing with [_Cities & Knight
   - Knights that are displaced in this manner, are deactivated if they were previously active.
 - In a 5-6 player game, knights that are built during the Special Build Phase are required to move after a player has made off of their build actions. This prevents players from blocking other players from building additional knights.
   - This is the only time in which a knight may move outside of the movement phase. A knight cannot move during the Special Build Phase otherwise.
-{% endcapture %}
-{% include expansion-box.html layout="cities-knights" content=ck_rules %}
+{% include expansion-box-close.html %}
 
-{% capture cf2_rules %}
+{% include expansion-box-open.html layout="traders-barbarians" %}
 The following additional rules are in effect when playing with "Catan for Two":
 - **The Foreign Knight**: There is one neutral knight in play, known as the Foreign Knight. This knight begins the game off of the board, and enters play whenever the first knight is placed on the board.
 - Aside from the fact that it is represented by a knight belonging to a neutral color, there is otherwise no association between the Foreign Knight and either of the neutral players.
 - The Foreign Knight may be moved by either player during their respective movement phases, but a player must move all of their own knights before moving the Foreign Knight. A player may move the Foreign Knight even if they have no knights of their own.
 
-Note that there is no specific guidance for playing with both "Catan for Two" and [_Cities & Knights_]({% link products/cities-knights.md %}) together, and thus there are no specific rules as to whether the Foreign Knight can be promoted.
-{% endcapture %}
-{% include expansion-box.html layout="traders-barbarians" content=cf2_rules %}
+Note that there is no specific guidance for playing with both "Catan for Two" and [_Cities & Knights_][cities-knights] together, and thus there are no specific rules as to whether the Foreign Knight can be promoted.
+{% include expansion-box-close.html %}
 
 {% include navbox-traders-barbarians.html %}
 

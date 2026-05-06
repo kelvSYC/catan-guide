@@ -27,18 +27,18 @@ Each knight has one of two states: **Activated** or **active**, and **Deactivate
 - Activation of a knight is considered a build action, and thus, under Special Build Phase rules, knights may be activated during the Special Build Phase. However, knight actions are not build actions, and thus cannot be performed during the Special Build Phase.
 - A player may not build a settlement where a knight is presently located. The knight must be moved before a settlement may be placed.
 
-{% capture seafarers_rules %}
-The following additional rules are in effect when playing with [_Seafarers_]({% link products/seafarers.md %}):
+{% include expansion-box-open.html layout="seafarers" %}
+The following additional rules are in effect when playing with [_Seafarers_][seafarers]:
 - Knights may transfer directly from a road to a ship when moving, without the presence of a building in between. Note that roads and ships are still not considered to be connected for the purpose of determining the Longest Route, whether or not there is a knight in between.
 - A player may not move a ship such that it results in a knight being disconnected from the road network.
 - A closed shipping line is not made open by the presence of an opposing knight along its route.
 - **Chasing the Pirate**: If an activated knight is located on an intersection adjacent to the Pirate, it may, as a knight action, move the Pirate away in the same manner as the robber.
-{% endcapture %}
-{% include expansion-box.html layout="seafarers" content=seafarers_rules %}
+{% include expansion-box-close.html %}
 
 {% include navbox-cities-knights.html %}
 
 [basic-knight]: {% link equipment/basic-knight.md %}
 [cities-knights]: {% link products/cities-knights.md %}
 [mighty-knight]: {% link equipment/mighty-knight.md %}
+[seafarers]: {% link products/seafarers.md %}
 [strong-knight]: {% link equipment/strong-knight.md %}

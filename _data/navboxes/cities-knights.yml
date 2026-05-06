@@ -5,6 +5,11 @@ groups:
   - label: Scenarios
     items:
       - title: Cities & Knights
+  - label: Variants
+    items:
+      - title: '"Nasty" Variant'
+      - title: Knight-Errant Variant
+      - title: Easy Start Variant
   - label: Equipment
     items:
       - title: Barbarian Track

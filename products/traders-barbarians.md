@@ -45,7 +45,7 @@ _Traders & Barbarians_ includes the following:
 - Coins
   - 25 - 1 gold
   - 15 - 5 gold
-- 21 Catan chits (English 4th-5th editions only)
+- 21 [Catan chits][catan-chit] (English 4th-5th editions only)
 - Player Pieces
   - "Rivers of Catan"
     - 3 bridges per player
@@ -87,16 +87,16 @@ _Traders & Barbarians_ includes the following:
   - "Merchant Trains"
     - 22 Trade Wagons
   - "Barbarian Attack"
-    - 1 color die (international editions only)
+    - 1 [Color Die][color-die] (international editions only)
     - 1 [Development Card][development-card-ba] deck (26 cards)
   - "Traders & Barbarians"
     - 1 [Development Card][development-card-tb] deck (25 cards)
-    - 36 Commodity Tokens
+    - 36 [Commodity Tokens][commodity-token]
     - 9 "X" Markers (English 6th edition and 4th international edition only)
   - "Harbors of Catan"
     - 1 "Strongest Ports" scoring bonus
   - "Catan Event Cards"
-    - 1 Event card deck (37 cards)
+    - 1 [Event Card deck][event-cards] (37 cards)
   - "Catan for Two"
     - 20 Trade Tokens (English 6th edition, all international editions)
 - 4 Cover cards used to separate cards from different scenarios from each other (English 4th-5th editions only)
@@ -156,7 +156,7 @@ The _Traders & Barbarians_ extension includes the following:
   - "Merchant Trains"
     - 11 Merchant Wagons
   - "Traders & Barbarians"
-    - 18 commodity tokens
+    - 18 [Commodity Tokens][commodity-token]
     - 1 [Development card][development-card-tb] deck (12 cards)
 - 12 barbarians
 - 1 set of 2 Paired Player Markers (English 6th edition, 4th International edition only), with figure stands
@@ -171,7 +171,11 @@ The _Traders & Barbarians_ extension includes the following:
 - As with the other extensions, the color of the 6th player is brown prior to the English 6th edition and 4th international edition, and purple afterwards.
 
 [baggage-train]: {% link equipment/baggage-train.md %}
+[catan-chit]: {% link equipment/catan-chit.md %}
+[color-die]: {% link equipment/color-die.md %}
+[commodity-token]: {% link equipment/commodity-token.md %}
 [development-card-ba]: {% link equipment/development-card-ba.md %}
 [development-card-tb]: {% link equipment/development-card-tb.md %}
+[event-cards]: {% link equipment/event-cards.md %}
 [knight-ba]: {% link equipment/knight-ba.md %}
 [wagon-board]: {% link equipment/wagon-board.md %}
