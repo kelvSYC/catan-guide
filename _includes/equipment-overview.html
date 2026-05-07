@@ -8,7 +8,7 @@
     <h3 style="margin-top: 0; border-bottom: 2px solid {{ colors.accent }}; padding-bottom: 0.25rem;">Equipment</h3>
     <ul>
       {%- for item in data.equipment %}
-      <li><a href="{{ item.link | relative_url }}">{{ item.title }}</a></li>
+      <li>{%- include navbox-item-link.html page=item.page link=item.link title=item.title -%}</li>
       {%- endfor %}
     </ul>
   </section>
@@ -18,7 +18,7 @@
     <h3 style="margin-top: 0; border-bottom: 2px solid {{ colors.accent }}; padding-bottom: 0.25rem;">Game Concepts</h3>
     <ul>
       {%- for item in data.game_concepts %}
-      <li><a href="{{ item.link | relative_url }}">{{ item.title }}</a></li>
+      <li>{%- include navbox-item-link.html page=item.page link=item.link title=item.title -%}</li>
       {%- endfor %}
     </ul>
   </section>

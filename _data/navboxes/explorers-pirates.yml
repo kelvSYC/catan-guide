@@ -1,14 +1,19 @@
 title: "*Explorers & Pirates*"
-title_link: products/explorers-pirates.html
+title_page: products/explorers-pirates.md
 colors: explorers-pirates
 groups:
   - label: Scenarios
     items:
       - title: Land Ho!
+        page: scenarios/land-ho.md
       - title: The Pirate Lairs
+        page: scenarios/the-pirate-lairs.md
       - title: Fish for Catan
+        page: scenarios/fish-for-catan.md
       - title: Spices for Catan
+        page: scenarios/spices-for-catan.md
       - title: Explorers & Pirates
+        page: scenarios/explorers-pirates.md
   - label: Equipment
     items:
       - title: Council of Catan Hex
@@ -27,7 +32,7 @@ groups:
       - title: Pirate
       - title: Pirate Lair
       - title: Settler Ship
-        link: game-concepts/settler-ship.html
+        page: game-concepts/settler-ship.md
       - title: Special Build Phase
-        link: game-concepts/special-build-phase.html
+        page: game-concepts/special-build-phase.md
       - title: Transshipment

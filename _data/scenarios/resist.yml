@@ -1,24 +1,24 @@
 equipment:
   - title: Chapter board
-    link: equipment/chapter-board.html
+    page: equipment/chapter-board.md
   - title: Conqueror
-    link: equipment/conqueror.html
+    page: equipment/conqueror.md
   - title: Direction Tile and Direction Die
-    link: equipment/direction-tile.html
+    page: equipment/direction-tile.md
   - title: Landing Marker
-    link: equipment/landing-marker.html
+    page: equipment/landing-marker.md
   - title: Politics Progress Card
-    link: equipment/politics-progress-card.html
+    page: equipment/politics-progress-card.md
   - title: Science Progress Card
-    link: equipment/science-progress-card.html
+    page: equipment/science-progress-card.md
   - title: Trade Progress Card
-    link: equipment/trade-progress-card.html
+    page: equipment/trade-progress-card.md
 
 game_concepts:
   - title: Event
-    link: game-concepts/event-conquerors.html
+    page: game-concepts/event-conquerors.md
   - title: Legend Point
-    link: game-concepts/legend-point.html
+    page: game-concepts/legend-point.md
 
 # Reserved for future use:
 # setups:

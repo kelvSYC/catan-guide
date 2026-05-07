@@ -1,10 +1,11 @@
 title: "*Cities & Knights*"
-title_link: products/cities-knights.html
+title_page: products/cities-knights.md
 colors: cities-knights
 groups:
   - label: Scenarios
     items:
       - title: Cities & Knights
+        page: scenarios/cities-knights.md
   - label: Variants
     items:
       - title: '"Nasty" Variant'
@@ -14,27 +15,27 @@ groups:
     items:
       - title: Barbarian Track
       - title: City Walls
-        link: equipment/city-walls.html
+        page: equipment/city-walls.md
       - title: Defender of Catan Card
-        link: equipment/defender-of-catan-card.html
+        page: equipment/defender-of-catan-card.md
       - title: Knight
         subitems:
           - title: Basic
-            link: equipment/basic-knight.html
+            page: equipment/basic-knight.md
           - title: Strong
-            link: equipment/strong-knight.html
+            page: equipment/strong-knight.md
           - title: Mighty
-            link: equipment/mighty-knight.html
+            page: equipment/mighty-knight.md
       - title: Merchant
-        link: equipment/merchant.html
+        page: equipment/merchant.md
       - title: Progress Card
         subitems:
           - title: Politics
-            link: equipment/politics-progress-card.html
+            page: equipment/politics-progress-card.md
           - title: Science
-            link: equipment/science-progress-card.html
+            page: equipment/science-progress-card.md
           - title: Trade
-            link: equipment/trade-progress-card.html
+            page: equipment/trade-progress-card.md
       - title: Victory Point Marker
   - label: Game Concepts
     items:
@@ -43,13 +44,13 @@ groups:
       - title: City Improvement
       - title: Commodity
       - title: Knight
-        link: game-concepts/knight-ck.html
+        page: game-concepts/knight-ck.md
       - title: Metropolis
       - title: Paired Player Turn
       - title: Promotion
       - title: Sabotaged City
-        link: game-concepts/sabotaged-city.html
+        page: game-concepts/sabotaged-city.md
       - title: Sixth Settlement
       - title: Special Build Phase
-        link: game-concepts/special-build-phase.html
+        page: game-concepts/special-build-phase.md
       - title: Victory Point Marker

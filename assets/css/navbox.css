@@ -33,9 +33,12 @@ details[open] .navbox summary::before {
   content: "\25BC";
 }
 
+.navbox summary {
+  font-weight: bold;
+}
+
 .navbox summary a {
   color: #fff;
-  font-weight: bold;
 }
 
 .navbox-row {
@@ -100,4 +103,8 @@ details[open] .navbox summary::before {
 .navbox-subitem-list li+li::before {
   content: "\2022";
   margin: 0 0.3em;
+}
+
+.navbox-current {
+  font-weight: bold;
 }

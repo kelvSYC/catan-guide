@@ -1,15 +1,21 @@
 title: "*Treasures, Dragons & Adventurers*"
-title_link: products/tda.html
+title_page: products/tda.md
 colors: tda
 groups:
   - label: Scenarios
     items:
       - title: The Treasure Islands
+        page: scenarios/the-treasure-islands.md
       - title: Into the Unknown
+        page: scenarios/into-the-unknown.md
       - title: Greater Catan
+        page: scenarios/greater-catan.md
       - title: Desert Dragons
+        page: scenarios/desert-dragons.md
       - title: The Great Canal
+        page: scenarios/the-great-canal.md
       - title: Enchanted Land
+        page: scenarios/enchanted-land.md
   - label: Equipment
     items:
       - title: Canal Token

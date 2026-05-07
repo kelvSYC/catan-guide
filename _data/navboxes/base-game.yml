@@ -21,6 +21,6 @@ groups:
       - title: Paired Player Turn
       - title: Resource
       - title: Special Build Phase
-        link: game-concepts/special-build-phase.html
+        page: game-concepts/special-build-phase.md
       - title: Trade Before Building
       - title: Victory Point Card

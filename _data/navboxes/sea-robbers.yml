@@ -1,15 +1,20 @@
 title: "*Legend of the Sea Robbers*"
-title_link: products/sea-robbers.html
+title_page: products/sea-robbers.md
 colors: seafarers
 groups:
   - label: Scenarios
     items:
       - title: The Castaways
+        page: scenarios/the-castaways.md
       - title: The Attack
+        page: scenarios/the-attack.md
       - title: The Battle Against the Sea Robbers*
+        page: scenarios/the-battle-against-the-sea-robbers.md
       - title: The Spice Islands
+        page: scenarios/the-spice-islands.md
         subitems:
           - title: Spices for Catan
+            page: scenarios/spices-for-catan-sea-robbers.md
   - label: Equipment
     items:
       - title: Bog Iron Ore Token
@@ -28,4 +33,4 @@ groups:
   - label: Game Concepts
     items:
       - title: Legend Point
-        link: game-concepts/legend-point.html
+        page: game-concepts/legend-point.md

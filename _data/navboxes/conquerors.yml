@@ -1,42 +1,42 @@
 title: "*Legend of the Conquerors*"
-title_link: products/conquerors.html
+title_page: products/conquerors.md
 colors: cities-knights
 groups:
   - label: Scenarios
     items:
       - title: Resist!
-        link: scenarios/resist.html
+        page: scenarios/resist.md
       - title: Stop the Conquerors!
-        link: scenarios/stop-the-conquerors.html
+        page: scenarios/stop-the-conquerors.md
       - title: Free All of Catan!
-        link: scenarios/free-all-of-catan.html
+        page: scenarios/free-all-of-catan.md
   - label: Equipment
     items:
       - title: Amber Token
-        link: equipment/amber-token.html
+        page: equipment/amber-token.md
       - title: Cannon / Foundry
-        link: equipment/cannon.html
+        page: equipment/cannon.md
       - title: Cavalry / Horse Farm
-        link: equipment/cavalry.html
+        page: equipment/cavalry.md
       - title: Chapter Board
-        link: equipment/chapter-board.html
+        page: equipment/chapter-board.md
       - title: Conqueror
-        link: equipment/conqueror.html
+        page: equipment/conqueror.md
       - title: Direction Tile and Direction Die
-        link: equipment/direction-tile.html
+        page: equipment/direction-tile.md
       - title: Fort
-        link: equipment/fort.html
+        page: equipment/fort.md
       - title: Landing Marker
-        link: equipment/landing-marker.html
+        page: equipment/landing-marker.md
       - title: Progress Card
         subitems:
           - title: Battle
-            link: equipment/battle-progress-card.html
+            page: equipment/battle-progress-card.md
           - title: Politics
-            link: equipment/politics-progress-card.html
+            page: equipment/politics-progress-card.md
       - title: Swamp Hex
       - title: Wine Token
-        link: equipment/wine-token.html
+        page: equipment/wine-token.md
   - label: Game Concepts
     items:
       - title: Barbarian Attack
@@ -44,10 +44,10 @@ groups:
       - title: Cavalry
       - title: Encirclement
       - title: Event
-        link: game-concepts/event-conquerors.html
+        page: game-concepts/event-conquerors.md
       - title: Hero Track
-        link: game-concepts/hero-track.html
+        page: game-concepts/hero-track.md
       - title: Knight Upgrade
-        link: game-concepts/knight-upgrade.html
+        page: game-concepts/knight-upgrade.md
       - title: Legend Point
-        link: game-concepts/legend-point.html
+        page: game-concepts/legend-point.md

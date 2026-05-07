@@ -1,5 +1,5 @@
 title: "*Seafarers*"
-title_link: products/seafarers.html
+title_page: products/seafarers.md
 colors: seafarers
 groups:
   - label: Scenarios
@@ -7,31 +7,47 @@ groups:
       - label: 4th Edition - Present
         items:
           - title: Heading for New Shores
+            page: scenarios/heading-for-new-shores.md
           - title: The Four Islands
+            page: scenarios/the-four-islands.md
           - title: The Fog Islands
+            page: scenarios/the-fog-islands.md
           - title: Through the Desert
+            page: scenarios/through-the-desert.md
           - title: The Forgotten Tribe
+            page: scenarios/the-forgotten-tribe.md
           - title: Cloth for Catan
+            page: scenarios/cloth-for-catan.md
           - title: The Pirate Islands
+            page: scenarios/the-pirate-islands.md
           - title: The Wonders of Catan
+            page: scenarios/the-wonders-of-catan.md
           - title: New World
+            page: scenarios/new-world.md
       - label: 3rd Edition
         items:
           - title: New Shores
+            page: scenarios/new-shores.md
           - title: The Four Islands
+            page: scenarios/the-four-islands.md
           - title: Oceans
+            page: scenarios/oceans.md
           - title: Into the Desert
+            page: scenarios/into-the-desert.md
           - title: New World
+            page: scenarios/new-world.md
           - title: The Great Crossing
+            page: scenarios/the-great-crossing.md
           - title: Greater Catan
+            page: scenarios/greater-catan.md
   - label: Equipment
     items:
       - title: Beachhead Marker
-        link: equipment/beachhead-marker.html
+        page: equipment/beachhead-marker.md
       - title: Catan chit
-        link: equipment/catan-chit.html
+        page: equipment/catan-chit.md
       - title: Cloth Token
-        link: equipment/cloth-token.html
+        page: equipment/cloth-token.md
       - title: Gold Field Hex
       - title: Pirate
       - title: Pirate Lair Token
@@ -40,7 +56,7 @@ groups:
       - title: Ship
       - title: Victory Point Marker
       - title: Wonder Tile and Wonder Marker
-        link: equipment/wonder-tile.html
+        page: equipment/wonder-tile.md
       - title: "\"X\" Marker"
   - label: Game Concepts
     items:
@@ -48,8 +64,8 @@ groups:
       - title: Home Island
       - title: Paired Player Turn
       - title: Pirate Fortress
-        link: game-concepts/pirate-fortress.html
+        page: game-concepts/pirate-fortress.md
       - title: Shipping Line
       - title: Special Build Phase
-        link: game-concepts/special-build-phase.html
+        page: game-concepts/special-build-phase.md
       - title: Warship

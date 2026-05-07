@@ -5,11 +5,7 @@
   style="--navbox-accent: {{ colors.accent }}; --navbox-content: {{ colors.content }}; --navbox-background: {{ colors.background }};">
   <details class="navbox" open>
     <summary>
-      {%- if navbox.title_link -%}
-      <a href="{{ navbox.title_link | relative_url }}">{{ navbox_title }}</a>
-      {%- else -%}
-      {{ navbox_title }}
-      {%- endif -%}
+      {%- include navbox-item-link.html page=navbox.title_page link=navbox.title_link title=navbox_title -%}
     </summary>
     {% for group in navbox.groups %}
       {% include navbox-group.html group=group depth=0 %}

@@ -4,12 +4,12 @@
   <ul class="navbox-list">
     {%- for item in include.group.items %}<li>
       {%- assign item_title = item.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
-      {%- if item.link -%}<a href="{{ item.link | relative_url }}">{{ item_title }}</a>{%- else -%}{{ item_title }}{%- endif -%}
+      {%- include navbox-item-link.html page=item.page link=item.link title=item_title -%}
       {%- if item.subitems %} (<ul class="navbox-subitem-list">
         {%- for subitem in item.subitems -%}
         <li>
           {%- assign subitem_title = subitem.title | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip -%}
-          {%- if subitem.link -%}<a href="{{ subitem.link | relative_url }}">{{ subitem_title }}</a>{%- else -%}{{ subitem_title }}{%- endif -%}
+          {%- include navbox-item-link.html page=subitem.page link=subitem.link title=subitem_title -%}
         </li>
         {%- endfor -%}
       </ul>)

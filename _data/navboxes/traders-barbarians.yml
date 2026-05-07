@@ -1,54 +1,65 @@
 title: "*Traders & Barbarians*"
-title_link: products/traders-barbarians.html
+title_page: products/traders-barbarians.md
 colors: traders-barbarians
 groups:
   - label: Scenarios
     items:
       - title: Fishing on Catan
+        page: scenarios/fishing-on-catan.md
       - title: Rivers of Catan
+        page: scenarios/rivers-of-catan.md
       - title: Merchant Trains
+        page: scenarios/merchant-trains.md
       - title: Barbarian Attack
+        page: scenarios/barbarian-attack.md
       - title: Traders & Barbarians
+        page: scenarios/traders-barbarians.md
         subitems:
           - title: XXL
+            page: scenarios/traders-barbarians-xxl.md
           - title: Ultimate
+            page: scenarios/traders-barbarians-ultimate.md
   - label: Variants
     items:
       - title: The Friendly Robber
+        page: scenarios/the-friendly-robber.md
       - title: Harbors of Catan
+        page: scenarios/harbors-of-catan.md
       - title: Catan Event Cards
+        page: scenarios/catan-event-cards.md
       - title: Catan for Two
+        page: scenarios/catan-for-two.md
   - label: Equipment
     items:
       - title: Baggage Train
-        link: equipment/baggage-train.html
+        page: equipment/baggage-train.md
       - title: Barbarian
       - title: Bridge
       - title: Camel
       - title: Castle Hex (Barbarian Attack)
       - title: Color die
-        link: equipment/color-die.html
+        page: equipment/color-die.md
       - title: Commodity Hex
         subitems:
           - title: Castle
           - title: Glassworks
           - title: Quarry
       - title: Commodity Token
-        link: equipment/commodity-token.html
+        page: equipment/commodity-token.md
       - title: Development Card
         subitems:
           - title: Barbarian Attack
-            link: equipment/development-card-ba.html
+            page: equipment/development-card-ba.md
           - title: Traders & Barbarians
-            link: equipment/development-card-tb.html
+            page: equipment/development-card-tb.md
       - title: Event Cards
-        link: equipment/event-cards.html
+        page: equipment/event-cards.md
       - title: Fish Token
       - title: Fishing Ground
       - title: Gold Coin
       - title: Harbormaster
       - title: Knight
-        link: game-concepts/knight-ba.html
+        page: game-concepts/knight-ba.md
       - title: Lake Hex
       - title: River
       - title: Strongest Ports
@@ -57,23 +68,23 @@ groups:
       - title: Trade Wagon
       - title: Wagon
       - title: Wagon Board
-        link: equipment/wagon-board.html
+        page: equipment/wagon-board.md
       - title: Watering Hole Hex
       - title: "\"X\" Marker"
   - label: Game Concepts
     items:
       - title: Bridge Site
-        link: game-concepts/bridge-site.html
+        page: game-concepts/bridge-site.md
       - title: Conquered Hex
       - title: Damaged Road
-        link: game-concepts/damaged-road.html
+        page: game-concepts/damaged-road.md
       - title: Knight
-        link: game-concepts/knight-ba.html
+        page: game-concepts/knight-ba.md
       - title: Neutral Player
       - title: Paired Player Turn
       - title: Old Boot
       - title: Poor Catanian
       - title: Special Build Phase
-        link: game-concepts/special-build-phase.html
+        page: game-concepts/special-build-phase.md
       - title: Voting Round
       - title: Wealthiest Catanian

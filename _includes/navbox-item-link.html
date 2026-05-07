@@ -1,0 +1,8 @@
+{%- if include.page -%}
+  {%- assign _nb_resolved = site.pages | where: "path", include.page | first -%}
+  {%- if _nb_resolved -%}
+    {%- if _nb_resolved.url == page.url -%}<span class="navbox-current">{{ include.title }}</span>
+    {%- else -%}<a href="{{ _nb_resolved.url | relative_url }}">{{ include.title }}</a>{%- endif -%}
+  {%- else -%}{{ include.title }}{%- endif -%}
+{%- elsif include.link -%}<a href="{{ include.link | relative_url }}">{{ include.title }}</a>
+{%- else -%}{{ include.title }}{%- endif -%}
